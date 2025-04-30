@@ -1,475 +1,3388 @@
 ---
 references:
-- id: assmannMonotheismCurseBlessing2018a
+- id: adelmanMidrasch2016
   accessed:
     - year: 2023
-      month: 10
-      day: 20
+      month: 4
+      day: 6
   author:
-    - family: Assmann
-      given: Jan
-  citation-key: assmannMonotheismCurseBlessing2018a
-  collection-number: '9'
-  collection-title: Routledge research in religion and education
-  container-title: >-
-    Public theology, religious diversity, and interreligious learning:
-    Contributing to the common good through religious education
-  DOI: 10.11588/propylaeumdok.00005462
+    - family: Adelman
+      given: Rachel
+  citation-key: adelmanMidrasch2016
+  container-title: Enzyklopädie jüdischer Geschichte und Kultur
   editor:
-    - family: Pirner
-      given: Manfred L.
-    - family: Lähnemann
-      given: Johannes
-    - family: Haussmann
-      given: Werner
-    - family: Schwarz,
-      given: Susanne
-  event-place: New York ; London
+    - family: Diner
+      given: Dan
+  event-place: Leiden
+  issued:
+    - year: 2016
+      month: 10
+      day: 1
+  language: de
+  publisher: Brill
+  publisher-place: Leiden
+  source: referenceworks-1brillonline-1com-11statk71065c.proxy.fid-lizenzen.de
+  title: Midrasch
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/18063786011/CourseNode/93668888136198/7+-+Adelman+-+2016+-+Midrasch.pdf
+
+- id: adelmanMidrash2017
+  accessed:
+    - year: 2023
+      month: 4
+      day: 6
+  author:
+    - family: Adelman
+      given: Rachel
+  citation-key: adelmanMidrash2017
+  container-title: Encyclopedia of Jewish History and Culture Online
+  editor:
+    - family: Diner
+      given: Dan
+  event-place: Leiden
+  issued:
+    - year: 2017
+      month: 8
+      day: 9
+  language: en
+  publisher: Brill
+  publisher-place: Leiden
+  source: referenceworks-1brillonline-1com-11statk71065c.proxy.fid-lizenzen.de
+  title: Midrash
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/18063786011/CourseNode/93668888136198/7+-+Adelman+-+2017+-+Midrash.pdf
+
+- id: alexanderTextualSourcesStudy1990
+  accessed:
+    - year: 2022
+      month: 11
+      day: 25
+  author:
+    - family: Alexander
+      given: Philip S.
+  citation-key: alexanderTextualSourcesStudy1990
+  collection-title: Textual sources for the study of religion
+  event-place: Chicago
+  ISBN: 978-0-226-01297-1
+  issued:
+    - year: 1990
+  language: eng
+  note: 'OCLC: 22112905'
+  number-of-pages: '198'
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  source: Open WorldCat
+  title: Textual sources for the study of Judaism
+  type: book
+  URL: http://catdir.loc.gov/catdir/enhancements/fy0608/90043464-t.html
+
+- id: alkierJudenChristenHeiden2018
+  abstract: >-
+    The triad of Jews, Gentiles and Christians seems clearly arranged in the
+    religious
+     world of the Roman Empire. However, a closer look shows that this is too simple a
+     model in that it neither does justice to the diverse descriptions of these groups
+     or those of others, nor to their respective concepts of identity or the varying mechanisms
+     of inclusions and exclusions. This volume illustrates this by way of interdisciplinary
+     individual studies on Asia Minor, but also through conceptional considerations. In
+     summary, the editors offer new terminology suggestions
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2018-68403
+  citation-key: alkierJudenChristenHeiden2018
+  collection-number: '400'
+  collection-title: Wissenschaftliche Untersuchungen zum Neuen Testament
+  editor:
+    - family: Alkier
+      given: Stefan
+    - family: Leppin
+      given: Hartmut
+  event-place: Tübingen
+  ISBN: 978-3-16-153706-6
   issued:
     - year: 2018
-  language: eng
-  license: info:eu-repo/semantics/openAccess
-  page: 94-104
-  publisher: Routledge
-  publisher-place: New York ; London
-  title: Monotheism – curse or blessing?
-  type: chapter
-  URL: https://archiv.ub.uni-heidelberg.de/propylaeumdok/5462/
-  volume: '9'
-
-- id: beckingBoundariesIsraeliteMonotheism2008a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Becking
-      given: Bob
-  citation-key: beckingBoundariesIsraeliteMonotheism2008a
-  container-title: >-
-    The Boundaries of Monotheism: Interdisciplinary Explorations into the
-    Foundations of Western Monotheism
-  editor:
-    - family: Haardt
-      given: Maaike
-      non-dropping-particle: de
-    - family: Korte
-      given: Anna-Marie J. A. C. M.
-  event-place: Boston
-  ISBN: 978-90-474-2663-9
-  issued:
-    - year: 2008
-  language: en
-  page: 9-27
-  publisher: Brill
-  publisher-place: Boston
-  source: ProQuest Ebook Central
-  title: The boundaries of Israelite monotheism
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
-
-- id: chatelioncounetDivineMessiahEarly2008a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Chatelion Counet
-      given: Patrick
-  citation-key: chatelioncounetDivineMessiahEarly2008a
-  container-title: >-
-    The Boundaries of Monotheism: Interdisciplinary Explorations into the
-    Foundations of Western Monotheism
-  editor:
-    - family: Haardt
-      given: Maaike
-      non-dropping-particle: de
-    - family: Korte
-      given: Anna-Marie J. A. C. M.
-  event-place: Boston
-  ISBN: 978-90-474-2663-9
-  issued:
-    - year: 2008
-  language: en
-  page: 28-52
-  publisher: Brill
-  publisher-place: Boston
-  source: ProQuest Ebook Central
-  title: 'The divine Messiah: Early Jewish monotheism and the New Testament'
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
-
-- id: collinsKingMessiahSon2011a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Collins
-      given: John J
-  citation-key: collinsKingMessiahSon2011a
-  container-title: Reconsidering the Concept of Revolutionary Monotheism
-  editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
-  issued:
-    - year: 2011
-  language: en
-  page: 291-316
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: King and Messiah as Son of God
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
-
-- id: dehaardtBoundariesMonotheismInterdisciplinary2008c
-  abstract: >-
-    What is the significance of monotheism in modern western culture, taking
-    into account both its problematic and promising aspects? Biblical texts and
-    the biblical faith traditions bear a continuous, polemical tension between
-    exclusive and inclusive perceptions and interpretations of monotheism.
-    Western monotheism proves itself to be multi-significant and heterogeneous,
-    producing boundary-setting as well as boundary-crossing tendencies, is the
-    common thesis of the authors of this book, who have been collectively
-    debating this theme for two years in an interdisciplinary scholarly setting.
-    Their contributions range from the fields of biblical and religious studies,
-    history and philosophy of religion, systematic theology, to gender studies
-    in theology and religion.The authors also explain the particular
-    contribution of their own theological discipline to these debates.
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  citation-key: dehaardtBoundariesMonotheismInterdisciplinary2008c
-  editor:
-    - family: Haardt
-      given: Maaike
-      non-dropping-particle: de
-    - family: Korte
-      given: Anna-Marie J. A. C. M.
-  event-place: Boston
-  ISBN: 978-90-474-2663-9
-  issued:
-    - year: 2008
-  language: en
-  publisher: Brill
-  publisher-place: Boston
-  source: ProQuest Ebook Central
-  title: >-
-    The Boundaries of Monotheism: Interdisciplinary Explorations into the
-    Foundations of Western Monotheism
-  title-short: The Boundaries of Monotheism
-  type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
-
-- id: gnuseNoOtherGods1997a
-  abstract: >-
-    This is the first full-scale assessment of the theological, social and
-    ideational implications of our new understandings of ancient Israel's social
-    and religious development. Scholars now stress the gradual emergence of
-    Israel out of the culture of ancient Palestine and the surrounding ancient
-    Near East rather than contrast Israel with the ancient world. Our new
-    paradigms stress the ongoing and unfinished nature of the monotheistic
-    'revolution', which is indeed still in process today. Gnuse takes a further
-    bold step in setting the emergence of monotheism in a wider intellectual
-    context: he argues brilliantly that the interpretation of Israel's
-    development as both an evolutionary and revolutionary process corresponds to
-    categories of contemporary evolutionary thought in the biological and
-    palaeontological sciences (Punctuated Equilibrium).
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Gnuse
-      given: Robert Karl
-  citation-key: gnuseNoOtherGods1997a
-  event-place: London, UNITED KINGDOM
-  ISBN: 978-0-567-37415-8
-  issued:
-    - year: 1997
-  publisher: Bloomsbury Publishing Plc
-  publisher-place: London, UNITED KINGDOM
-  source: ProQuest Ebook Central
-  title: 'No Other Gods: Emergent Monotheism in Israel'
-  title-short: No Other Gods
-  type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D436625
-
-- id: langMonotheismus1998a
-  author:
-    - family: Lang
-      given: Bernard
-  call-number: '2'
-  citation-key: langMonotheismus1998a
-  collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
-  container-title: Handbuch religionswissenschaftlicher Grundbegriffe
-  editor:
-    - family: Cancik
-      given: Hubert
-    - family: Gladigow
-      given: Burkhard
-    - family: Kohl
-      given: Karl-Heinz
-  event-place: Stuttgart
-  ISBN: 978-3-17-010531-7 978-3-17-009553-3 978-3-17-009554-0 978-3-17-009555-7
-  issued:
-    - year: 1998
   language: de
-  number-of-volumes: '5'
-  page: 148-165
-  publisher: W. Kohlhammer
-  publisher-place: Stuttgart
-  source: BnF ISBN
-  title: Monotheismus
-  type: chapter
-  URL: >-
-    https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wn4eAAAAMAAJ?hl=de&gbpv=1&pg=PA148&printsec=frontcover
-  volume: '4'
-
-- id: markschiesPriceMonotheismNew2010a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Markschies
-      given: Christoph
-  citation-key: markschiesPriceMonotheismNew2010a
-  container-title: One God
-  DOI: 10.1017/CBO9780511730115.007
-  editor:
-    - family: Mitchell
-      given: Stephen
-    - family: Van Nuffelen
-      given: Peter
-  event-place: Cambridge
-  ISBN: 978-0-511-73011-5
-  issued:
-    - year: 2010
-  page: 100-111
-  publisher: Cambridge University Press
-  publisher-place: Cambridge
-  source: DOI.org (Crossref)
+  note: >-
+    ill. 24 cm. Textes issus d'un congrès. 15 contributions en allemand et 2 en
+    anglais. Bibliogr. en fin de contributions.
+  number-of-pages: '453'
+  number-of-volumes: '1'
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
   title: >-
-    The price of monotheism: Some new observations on a current debate about
-    late antiquity
-  title-short: The price of monotheism
-  type: chapter
+    Juden, Christen, Heiden? Religiöse Inklusion und Exklusion in Kleinasien bis
+    Decius
+  title-short: Juden, Christen, Heiden?
+  type: book
   URL: >-
-    https://www.cambridge.org/core/product/identifier/CBO9780511730115A013/type/book_part
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.mohrsiebeck.com%2Fbuch%2Fjuden-heiden-christen-9783161550294
 
-- id: mcgrathOnlyTrueGod2009a
+- id: alkierTerminologienKollektiverIdentitaeten2018
   abstract: >-
-    Monotheism is a powerful religious concept shaped by competing ideas and the
-    problems they raised. Surveying New Testament writings and Jewish sources
-    from before and after the rise of Christianity, James F. McGrath argues that
-    even the most developed Christologies in the New Testament fit within the
-    context of first century Jewish monotheism. McGrath pinpoints when the
-    parting of ways took place over the issue of God's oneness, and explores
-    philosophical ideas such as "creation out of nothing" which caused Jews and
-    Christians to develop differing concepts and definitions about God.
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
+    The triad of Jews, Gentiles and Christians seems clearly arranged in the
+    religious
+     world of the Roman Empire. However, a closer look shows that this is too simple a
+     model in that it neither does justice to the diverse descriptions of these groups
+     or those of others, nor to their respective concepts of identity or the varying mechanisms
+     of inclusions and exclusions. This volume illustrates this by way of interdisciplinary
+     individual studies on Asia Minor, but also through conceptional considerations. In
+     summary, the editors offer new terminology suggestions
   author:
-    - family: McGrath
-      given: James F.
-  citation-key: mcgrathOnlyTrueGod2009a
-  event-place: Champaign, UNITED STATES
-  ISBN: 978-0-252-09189-6
-  issued:
-    - year: 2009
-  publisher: University of Illinois Press
-  publisher-place: Champaign, UNITED STATES
-  source: ProQuest Ebook Central
-  title: 'The Only True God: Early Christian Monotheism in Its Jewish Context'
-  title-short: The Only True God
-  type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3414053
-
-- id: pongratz-leistenNewAgendaStudy2011a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Pongratz-Leisten
-      given: Beate
-  citation-key: pongratz-leistenNewAgendaStudy2011a
-  container-title: Reconsidering the Concept of Revolutionary Monotheism
+    - family: Alkier
+      given: Stefan
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2018-68403
+  citation-key: alkierTerminologienKollektiverIdentitaeten2018
+  collection-number: '400'
+  collection-title: Wissenschaftliche Untersuchungen zum Neuen Testament
+  container-title: >-
+    Juden, Christen, Heiden? Religiöse Inklusion und Exklusion in Kleinasien bis
+    Decius
   editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
+    - family: Alkier
+      given: Stefan
+    - family: Leppin
+      given: Hartmut
+  event-place: Tübingen
+  ISBN: 978-3-16-153706-6
   issued:
-    - year: 2011
-  language: en
-  page: 1-40
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: A New Agenda for the Study of the Rise of Monotheism
+    - year: 2018
+  language: de
+  note: >-
+    ill. 24 cm. Textes issus d'un congrès. 15 contributions en allemand et 2 en
+    anglais. Bibliogr. en fin de contributions.
+  number-of-volumes: '1'
+  page: 301-332
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: Terminologien kollektiver Identitäten in der Apostelgeschichte des Lukas
   type: chapter
   URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.mohrsiebeck.com%2Fbuch%2Fjuden-heiden-christen-9783161550294
 
-- id: pongratz-leistenReconsideringConceptRevolutionary2011a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  citation-key: pongratz-leistenReconsideringConceptRevolutionary2011a
+- id: beckerWaysThatNever2003
+  call-number: 13.219.31
+  citation-key: beckerWaysThatNever2003
+  collection-number: '95'
+  collection-title: Texts and studies in ancient Judaism
   editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
+    - family: Becker
+      given: Adam H.
+    - family: Reed
+      given: Annette Yoshiko
+  event-place: Tübingen
+  ISBN: 978-3-16-147966-3
   issued:
-    - year: 2011
+    - year: 2003
   language: en
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: Reconsidering the Concept of Revolutionary Monotheism
+  number-of-pages: 'VIII, 410 S. :'
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: UBFFM ZB
+  title: The ways that never parted
   type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
 
-- id: schmidQuestGodMonotheistic2011a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
+- id: boehmSamaritanischeDiasporaIm2018
+  abstract: >-
+    The triad of Jews, Gentiles and Christians seems clearly arranged in the
+    religious
+     world of the Roman Empire. However, a closer look shows that this is too simple a
+     model in that it neither does justice to the diverse descriptions of these groups
+     or those of others, nor to their respective concepts of identity or the varying mechanisms
+     of inclusions and exclusions. This volume illustrates this by way of interdisciplinary
+     individual studies on Asia Minor, but also through conceptional considerations. In
+     summary, the editors offer new terminology suggestions
   author:
-    - family: Schmid
-      given: Konrad
-  citation-key: schmidQuestGodMonotheistic2011a
-  container-title: Reconsidering the Concept of Revolutionary Monotheism
+    - family: Böhm
+      given: Martina
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2018-68403
+  citation-key: boehmSamaritanischeDiasporaIm2018
+  collection-number: '400'
+  collection-title: Wissenschaftliche Untersuchungen zum Neuen Testament
+  container-title: >-
+    Juden, Christen, Heiden? Religiöse Inklusion und Exklusion in Kleinasien bis
+    Decius
   editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
+    - family: Alkier
+      given: Stefan
+    - family: Leppin
+      given: Hartmut
+  event-place: Tübingen
+  ISBN: 978-3-16-153706-6
   issued:
-    - year: 2011
-  language: en
-  page: 271-290
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: >-
-    The Quest for “God”: Monotheistic Arguments in the Priestly Texts of the
-    Hebrew Bible
+    - year: 2018
+  language: de
+  note: >-
+    ill. 24 cm. Textes issus d'un congrès. 15 contributions en allemand et 2 en
+    anglais. Bibliogr. en fin de contributions.
+  number-of-volumes: '1'
+  page: 171-196
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: Samaritanische Diaspora im Imperium Romanum bis ca. 200 n. Chr.
   type: chapter
   URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.mohrsiebeck.com%2Fbuch%2Fjuden-heiden-christen-9783161550294
 
-- id: stroumsaIdeaSemiticMonotheism2021a
-  abstract: |-
-    In this work, a sequel to my
-                  A New Science: The Discovery of Religion in an Age of Reason
-                  (Cambridge, MA: Harvard University Press, 2010), I study some major aspects of the scholarly study of religion in the long nineteenth century—from the Enlightenment to the First World War. More precisely, I seek to understand the new status of Judaism and Islam in the formative period of the new discipline. In order to do that, I focus on the concept of Semitic monotheism, a concept developed by Ernest Renan around the mid-nineteenth century, on the basis of the postulated (and highly problematic) contradistinction between Aryan and Semitic families of peoples, cultures, and religions. This contradistinction grew from the Western discovery of Sanskrit and its relationship with European languages, at the time of the Enlightenment and Romanticism. Together with the rise of scholarly Orientalism, this discovery offered new perspectives on the East, as a consequence of which the Near East was demoted, as it were, from its traditional status as the locus of the biblical revelations. The book essentially studies a central issue in the modern study of religion. Doing so, however, it emphasizes that the new dualistic taxonomy of religions had major consequences and sheds new light on the roots of European attitudes to Jews and Muslims in the twentieth century and up to the present day.
+- id: boustanraananAfterwordRabbinizationPersistence2021
   accessed:
     - year: 2023
-      month: 10
-      day: 20
+      month: 3
+      day: 21
   author:
-    - family: Stroumsa
-      given: Guy G.
-  citation-key: stroumsaIdeaSemiticMonotheism2021a
-  DOI: 10.1093/oso/9780192898685.001.0001
-  edition: '1'
-  event-place: Oxford
-  ISBN: 978-0-19-289868-5 978-0-19-192520-7
+    - family: Boustan, Ra'anan
+      given: Gavin
+  citation-key: boustanraananAfterwordRabbinizationPersistence2021
+  collection-title: Cambridge Semitic Languages and Cultures 8
+  container-title: >-
+    Diversity and rabbinization: Jewish texts and societies between 400 and 1000
+    CE
+  DOI: 10.11647/obp.0219.15
+  editor:
+    - family: McDowell
+      given: Gavin
+    - family: Naiweld
+      given: Ron
+    - family: Stökl Ben Ezra
+      given: Daniel
+  event-place: Cambridge, U.K.
   issued:
     - year: 2021
-      month: 5
-      day: 20
+      month: 4
+      day: 30
   language: en
-  publisher: Oxford University Press
-  publisher-place: Oxford
-  source: DOI.org (Crossref)
-  title: 'The Idea of Semitic Monotheism: The Rise and Fall of a Scholarly Myth'
-  title-short: The Idea of Semitic Monotheism
-  type: book
-  URL: https://doi-org.proxy.ub.uni-frankfurt.de/10.1093/oso/9780192898685.001.0001
+  page: 427–450
+  publisher: Open Book Publishers
+  publisher-place: Cambridge, U.K.
+  source: www.openbookpublishers.com
+  title: >-
+    Afterword: Rabbinization and the Persistence of Diversity in Jewish Culture
+    in Late Antiquity
+  type: chapter
+  URL: https://books.openbookpublishers.com/10.11647/obp.0219.15.pdf
 
-- id: stuckenbruckEarlyJewishChristian2004a
-  abstract: >-
-    Early Christology must focus not simply on "historical" but also on
-    theological ideas found in contemporary Jewish thought and practice. In this
-    book, a range of distinguished contributors considers the context and
-    formation of early Jewish and Christian devotion to God alone-the emergence
-    of "monotheism." The idea of monotheism is critically examined from various
-    perspectives, including the history of ideas, Graeco-Roman religions, early
-    Jewish mediator figures, scripture exegesis, and the history of its use as a
-    theological category.The studies explore different ways of conceiving of
-    early Christian monotheism today, asking whether monotheism is a
-    conceptually useful category, whether it may be applied cautiously and with
-    qualifications, or whether it is to be questioned in favor of different
-    approaches to understanding the origins of Jewish and Christian beliefs and
-    worship.This is volume 1 in the Early Christianity in Context series and
-    volume 263 in the Journal for the Study of the New Testament Supplement
-    Series
+- id: boustanRabbinizationMakingEarly2011
   accessed:
     - year: 2023
-      month: 10
-      day: 20
+      month: 3
+      day: 21
   author:
-    - family: Stuckenbruck
-      given: Loren T.
-    - family: North
-      given: Wendy
-  citation-key: stuckenbruckEarlyJewishChristian2004a
-  event-place: London, UNITED KINGDOM
-  ISBN: 978-0-567-42917-9
+    - family: Boustan
+      given: Ra'Anan
+  citation-key: boustanRabbinizationMakingEarly2011
+  container-title: The Jewish Quarterly Review
+  ISSN: 0021-6682
+  issue: '4'
+  issued:
+    - year: 2011
+  page: 482-501
+  publisher: >-
+    [University of Pennsylvania Press, Center for Advanced Judaic Studies,
+    University of Pennsylvania]
+  source: JSTOR
+  title: Rabbinization and the Making of Early Jewish Mysticism
+  type: article-journal
+  URL: >-
+    https://shibbolethsp.jstor.org/start?entityID=https%3A%2F%2Fidp.hebis.de%2Funi-frankfurt&dest=https://www.jstor.org/stable/41300154&site=jstor
+  volume: '101'
+
+- id: boyarinChristianInventionJudaism2004
+  abstract: >-
+    ABSTRACT In this paper, it is argued that a significant development takes
+    place in the second half of the fourth century and the beginning of the
+    fifth, a development that we might call the orthodox Christian invention of
+    religion. The paper examines effects of this development as it touches on
+    Jewish religious historyas well.
+  accessed:
+    - year: 2025
+      month: 2
+      day: 22
+  author:
+    - family: Boyarin
+      given: Daniel
+  citation-key: boyarinChristianInventionJudaism2004
+  container-title: Representations
+  DOI: 10.1525/rep.2004.85.1.21
+  ISSN: 0734-6018
+  issue: '1'
   issued:
     - year: 2004
+  page: 21-57
+  publisher: University of California Press
+  source: JSTOR
+  title: >-
+    The Christian Invention of Judaism: The Theodosian Empire and the Rabbinic
+    Refusal of Religion
+  title-short: The Christian Invention of Judaism
+  type: article-journal
+  URL: https://www.jstor.org/stable/10.1525/rep.2004.85.1.21
+  volume: '85'
+
+- id: boyarinDiasporaGenerationGround1993
+  accessed:
+    - year: 2022
+      month: 2
+      day: 4
+  author:
+    - family: Boyarin
+      given: Daniel
+    - family: Boyarin
+      given: Jonathan
+  citation-key: boyarinDiasporaGenerationGround1993
+  container-title: Critical Inquiry
+  DOI: 10.1086/448694
+  ISSN: 0093-1896
+  issue: '4'
+  issued:
+    - year: 1993
+      month: 7
+      day: 1
+  page: 693-725
+  publisher: The University of Chicago Press
+  source: journals.uchicago.edu (Atypon)
+  title: 'Diaspora: Generation and the Ground of Jewish Identity'
+  title-short: Diaspora
+  type: article-journal
+  URL: https://www-jstor-org.proxy.ub.uni-frankfurt.de/stable/1343903?
+  volume: '19'
+
+- id: boyarinDyingGodMartyrdom1999
+  author:
+    - family: Boyarin
+      given: Daniel
+  citation-key: boyarinDyingGodMartyrdom1999
+  edition: Original printing
+  event-place: Stanford, Calif.
+  ISBN: 978-0-8047-3704-3
+  issued:
+    - year: 1999
+  number-of-pages: XI, 247 S.
+  publisher: Stanford Univ. Press
+  publisher-place: Stanford, Calif.
+  source: COinS
+  title: 'Dying for God : martyrdom and the making of Christianity and Judaism'
+  title-short: Dying for God
+  type: book
+
+- id: boyarinHellenismJewishBabylonia2007
+  accessed:
+    - year: 2023
+      month: 4
+      day: 4
+  author:
+    - family: Boyarin
+      given: Daniel
+  citation-key: boyarinHellenismJewishBabylonia2007
+  container-title: The Cambridge Companion to the Talmud and Rabbinic Literature
+  DOI: 10.1017/CCOL0521843901.016
+  edition: '1'
+  editor:
+    - family: Fonrobert
+      given: Charlotte Elisheva
+    - family: Jaffee
+      given: Martin S.
+  ISBN: 978-0-521-84390-4 978-0-521-60508-3 978-1-139-00151-9
+  issued:
+    - year: 2007
+      month: 5
+      day: 28
+  language: en
+  page: 336-364
+  publisher: Cambridge University Press
+  source: DOI.org (Crossref)
+  title: Hellenism in Jewish Babylonia
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Fdx.doi.org%2F10.1017%2FCCOL0521843901.016
+
+- id: boyarinJudaismGenealogyModern2019
+  author:
+    - family: Boyarin
+      given: Daniʾel (Verfasser)
+  citation-key: boyarinJudaismGenealogyModern2019
+  event-place: London
+  ISBN: 978-0-8135-7162-1
+  issued:
+    date-parts:
+      - - '2019'
+  number-of-pages: xiii, 217 Seiten
+  original-date:
+    - year: 2019
+  publisher: Rutgers University Press
+  publisher-place: London
+  source: COinS
+  title: 'Judaism : the genealogy of a modern notion'
+  title-short: Judaism
+  type: book
+
+- id: boyarinMidrashHebrews2016
+  author:
+    - family: Boyarin
+      given: Daniel
+  call-number: 90.724.04
+  citation-key: boyarinMidrashHebrews2016
+  collection-number: '91'
+  collection-title: Ancient Judaism and early Christianity
+  container-title: Hebrews in contexts
+  editor:
+    - family: Gelardini
+      given: Gabriella
+    - family: Attridge
+      given: Harold W.
+  event-place: Leiden ; Boston
+  ISBN: 978-90-04-31168-8 978-90-04-31169-5
+  issued:
+    - year: 2016
+  language: en
+  page: 15–30
+  publisher: Brill
+  publisher-place: Leiden ; Boston
+  source: Library of Congress ISBN
+  title: Midrash in Hebrews
+  type: chapter
+
+- id: boyarinSemanticDifferencesJudaism2003
+  author:
+    - family: Boyarin
+      given: Daniel
+  call-number: 13.219.31
+  citation-key: boyarinSemanticDifferencesJudaism2003
+  collection-number: '95'
+  collection-title: Texts and studies in ancient Judaism
+  container-title: The ways that never parted
+  editor:
+    - family: Becker
+      given: Adam H.
+    - family: Reed
+      given: Annette Yoshiko
+  event-place: Tübingen
+  ISBN: 978-3-16-147966-3
+  issued:
+    - year: 2003
+  language: en
+  page: 65-86
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: UBFFM ZB
+  title: Semantic differences; or, "Judaism"/"Christianity"
+  type: chapter
+
+- id: breuerAramaic2017
+  accessed:
+    - year: 2023
+      month: 4
+      day: 10
+  author:
+    - family: Breuer
+      given: Yochanan
+  citation-key: breuerAramaic2017
+  container-title: Encyclopedia of Jewish History and Culture Online
+  editor:
+    - family: Diner
+      given: Dan
+  event-place: Leiden
+  issued:
+    - year: 2017
+      month: 8
+      day: 3
+  language: en
+  publisher: Brill
+  publisher-place: Leiden
+  source: referenceworks-1brillonline-1com-11statk7106fb.proxy.fid-lizenzen.de
+  title: Aramaic
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/18063786011/CourseNode/93668888136198/10+-+EN+-+Breuer+-+2017+-+Aramaic.pdf
+
+- id: breuerAramaisch2017
+  accessed:
+    - year: 2023
+      month: 4
+      day: 10
+  author:
+    - family: Breuer
+      given: Yochanan
+  citation-key: breuerAramaisch2017
+  container-title: Enzyklopädie jüdischer Geschichte und Kultur
+  editor:
+    - family: Diner
+      given: Dan
+  event-place: Leiden
+  issued:
+    - year: 2017
+  language: en
+  publisher: Brill
+  publisher-place: Leiden
+  source: referenceworks-1brillonline-1com-11statk7106fb.proxy.fid-lizenzen.de
+  title: Aramäisch
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/18063786011/CourseNode/93668888136198/10+-+DE+-+Breuer+-+2011+-+Aram%C3%A4isch.pdf
+
+- id: brodyVarietiesNonRabbinicJudaism2021
+  accessed:
+    - year: 2023
+      month: 3
+      day: 21
+  author:
+    - family: Brody
+      given: Robert
+  citation-key: brodyVarietiesNonRabbinicJudaism2021
+  collection-title: Cambridge Semitic Languages and Cultures 8
+  container-title: >-
+    Diversity and rabbinization: Jewish texts and societies between 400 and 1000
+    CE
+  DOI: 10.11647/OBP.0219.05
+  editor:
+    - family: McDowell
+      given: Gavin
+    - family: Naiweld
+      given: Ron
+    - family: Stökl Ben Ezra
+      given: Daniel
+  event-place: Cambridge, U.K.
+  issued:
+    - year: 2021
+      month: 4
+      day: 30
+  language: en
+  page: 139–152
+  publisher: Open Book Publishers
+  publisher-place: Cambridge, U.K.
+  source: www.openbookpublishers.com
+  title: Varieties of Non-Rabbinic Judaism in Geonic and Contemporaneous Sources
+  type: chapter
+  URL: https://books.openbookpublishers.com/10.11647/obp.0219.05.pdf
+
+- id: buttsHistorySlaveChrist2017
+  abstract: >-
+    "The History of the 'Slave of Christ' : From Jewish Child to Christian
+    Martyr offers the first critical editions and English translations of the
+    two Syriac recensions of this fascinating text, which narrates the story of
+    a young Jewish child, Asher, who after converting to Christianity and taking
+    the name ʻAbda da-Miḥa ('slave of Christ') is martyred by his father Levi in
+    a scene reminiscent of Abraham's offering of Isaac in Genesis 22. In a
+    detailed introduction, the authors argue that the text is a fictional story
+    composed during the early Islamic period (ca. 650-850) probably in Shigar
+    (modern Sinjār). Building upon methodology from the study of Western
+    Christian and Jewish texts, they further contend that the story's author
+    constructs an imagined Jew based on the Hebrew Bible, thereby challenging
+    the way that previous scholars have used this text as straightforward
+    evidence for historical interactions between Jews and Christians in
+    Babylonia at this time. This ultimately allows the authors to reevaluate the
+    purpose of the text and to situate it in its Late Antique Babylonian
+    context"--
+  author:
+    - family: Butts
+      given: Michael Aaron
+    - family: Gross
+      given: Simcha
+  call-number: 21/NV 1500 B989 available IG Farben-Haus, Q6, 5. OG, Raum 5.611
+  citation-key: buttsHistorySlaveChrist2017
+  event-place: Piscataway, N.J.
+  ISBN: 978-1-4632-0573-7
+  issued:
+    - year: 2017
+  language: In English and Syriac; with Syriac texts translated into English.
+  note: 'OCLC: 965922443'
+  publisher: Gorgias Press
+  publisher-place: Piscataway, N.J.
+  source: UBFFM BzG
+  title: 'The history of the ''Slave of Christ'': from Jewish child to Christian martyr'
+  title-short: The history of the 'Slave of Christ'
+  type: book
+
+- id: claussenIdentitaetAntikjuedischerGemeinden2018
+  abstract: >-
+    The triad of Jews, Gentiles and Christians seems clearly arranged in the
+    religious
+     world of the Roman Empire. However, a closer look shows that this is too simple a
+     model in that it neither does justice to the diverse descriptions of these groups
+     or those of others, nor to their respective concepts of identity or the varying mechanisms
+     of inclusions and exclusions. This volume illustrates this by way of interdisciplinary
+     individual studies on Asia Minor, but also through conceptional considerations. In
+     summary, the editors offer new terminology suggestions
+  author:
+    - family: Claußen
+      given: Carsten
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2018-68403
+  citation-key: claussenIdentitaetAntikjuedischerGemeinden2018
+  collection-number: '400'
+  collection-title: Wissenschaftliche Untersuchungen zum Neuen Testament
+  container-title: >-
+    Juden, Christen, Heiden? Religiöse Inklusion und Exklusion in Kleinasien bis
+    Decius
+  editor:
+    - family: Alkier
+      given: Stefan
+    - family: Leppin
+      given: Hartmut
+  event-place: Tübingen
+  ISBN: 978-3-16-153706-6
+  issued:
+    - year: 2018
+  language: de
+  note: >-
+    ill. 24 cm. Textes issus d'un congrès. 15 contributions en allemand et 2 en
+    anglais. Bibliogr. en fin de contributions.
+  number-of-volumes: '1'
+  page: 275-300
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: >-
+    Die Identität antik-jüdischer Gemeinden in Kleinasien im Spiegel von
+    Rechtstexten. Das Beispiel Sardes
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.mohrsiebeck.com%2Fbuch%2Fjuden-heiden-christen-9783161550294
+
+- id: cohenJudaeanLegalTradition2007
+  accessed:
+    - year: 2023
+      month: 4
+      day: 4
+  author:
+    - family: Cohen
+      given: Shaye J. D.
+  citation-key: cohenJudaeanLegalTradition2007
+  container-title: The Cambridge Companion to the Talmud and Rabbinic Literature
+  DOI: 10.1017/CCOL0521843901.007
+  edition: '1'
+  editor:
+    - family: Fonrobert
+      given: Charlotte Elisheva
+    - family: Jaffee
+      given: Martin S.
+  ISBN: 978-0-521-84390-4 978-0-521-60508-3 978-1-139-00151-9
+  issued:
+    - year: 2007
+      month: 5
+      day: 28
+  language: en
+  page: 121-143
+  publisher: Cambridge University Press
+  source: DOI.org (Crossref)
+  title: The Judaean Legal Tradition and the *Halakhah* of the Mishnah
+  type: chapter
+  URL: >-
+    https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/books/cambridge-companion-to-the-talmud-and-rabbinic-literature/judaean-legal-tradition-and-the-halakhah-of-the-mishnah/0838D7740B715E7EC742D0E4450EE4B8
+
+- id: cohenMedievalJewryWorld2004
+  abstract: >-
+    Islam arose in the seventh century in Arabia through the preaching of the
+    prophet Muhammad (d. 632). Nineteenth-century Jewish historians of the
+    ‘Wissenschaft des Judentums’ school painted the experience of medieval Jewry
+    in the world of Islam in idyllic, almost mythic terms and in stark contrast
+    to the sorrowful, oppressive, persecutory history of Jews living in medieval
+    Christendom. This rosy comparison between the ‘Golden Age’ under Islam and
+    the era of persecution under Christendom, sketched against the background of
+    the political agenda of nineteenth-century Central European Jewish
+    intellectuals, was carried forth into the twentieth century, reinforced by
+    the brutal Nazi persecution of the Jews culminating in the Holocaust. On the
+    other hand, the Arab-Jewish dispute over Palestine generated a fresh
+    political issue which impacted on the historiography of medieval Jewry in
+    the world of Islam.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 3
+  author:
+    - family: Cohen
+      given: Mark R.
+  citation-key: cohenMedievalJewryWorld2004
+  container-title: The Oxford Handbook of Jewish Studies
+  DOI: 10.1093/oxfordhb/9780199280322.013.0009
+  editor:
+    - family: Goodman
+      given: Martin
+  ISBN: 978-0-19-928032-2
+  issued:
+    - year: 2004
+      month: 12
+      day: 16
+  page: 193–218
+  publisher: Oxford University Press
+  source: Silverchair
+  title: Medieval Jewry in the World of Islam
+  type: chapter
+  URL: >-
+    https://doi-org.proxy.ub.uni-frankfurt.de/10.1093/oxfordhb/9780199280322.013.0009
+
+- id: cohn-sherbokJudentum2000
+  author:
+    - family: Cohn-Sherbok
+      given: Dan
+  citation-key: cohn-sherbokJudentum2000
+  edition: Deutsche Erstausgabe
+  event-place: Freiburg im Breisgau
+  ISBN: 978-3-451-04825-8
+  issued:
+    - year: 2000
+  number-of-pages: 186 Seiten
+  publisher: Herder
+  publisher-place: Freiburg im Breisgau
+  source: COinS
+  title: Judentum
+  type: book
+
+- id: cohn-sherbokMessianicJudaismCritical2000
+  abstract: >-
+    Who are the Messianic Jews? What do they believe and practice? What is the
+    Jewish community's reaction to the development of Messianic Judaism? In this
+    pioneering study, Dan Cohn-Sherbok traces the development of the Messianic
+    movement from ancient times to its transformation after World War II.
+    Focusing on the nature of the movement today, the volume continues with a
+    detailed examination of Messianic practices, and the place of Messianic
+    Judaism within the contemporary Jewish community.
+  accessed:
+    - year: 2025
+      month: 4
+      day: 23
+  author:
+    - family: Cohn-Sherbok
+      given: Dan
+  citation-key: cohn-sherbokMessianicJudaismCritical2000
+  event-place: London, UNITED KINGDOM
+  ISBN: 978-1-4411-2410-4
+  issued:
+    - year: 2000
   publisher: Bloomsbury Publishing Plc
   publisher-place: London, UNITED KINGDOM
   source: ProQuest Ebook Central
-  title: Early Jewish and Christian Monotheism
+  title: 'Messianic Judaism: A Critical Anthology'
+  title-short: Messianic Judaism
   type: book
   URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D1749447
+    https://lbsopac.rz.uni-frankfurt.de/DB=30/CMD?ACT=SRCHA&IKT=12&REC=2&TRM=210502010
 
-- id: triggMonotheismReligiousDiversity2020a
+- id: collinsLiteratureSecondTemple2004
   abstract: >-
-    Cambridge Core - Religion: General Interest - Monotheism and Religious
-    Diversity
+    Strictly speaking, the Second Temple period extends from the construction of
+    the temple at the end of the sixth century bce to its destruction by the
+    Romans in 70 ce. Some scholars would now argue that the entire biblical
+    corpus belongs in this period. Even if one accepts the more traditional
+    dating of biblical sources, the final edition of the Torah must be placed
+    after the Exile. This article deals with this literature. The literature may
+    be divided into three categories, based on provenance more than on literary
+    genre, although each category has its own characteristics. These are the
+    Apocrypha and Pseudepigrapha; the Dead Sea scrolls; and the literature of
+    the Greek-speaking diaspora. The first and third categories were preserved
+    by Christians, the second was only recently recovered from the caves by the
+    Dead Sea.
   accessed:
     - year: 2023
-      month: 10
-      day: 20
+      month: 4
+      day: 3
   author:
-    - family: Trigg
-      given: Roger
-  citation-key: triggMonotheismReligiousDiversity2020a
-  collection-title: Elements in Religion and Monotheism
-  DOI: 10.1017/9781108637503
-  event-place: Cambridge
-  ISBN: 978-1-108-63750-3 978-1-108-71445-7
+    - family: Collins
+      given: John J.
+  citation-key: collinsLiteratureSecondTemple2004
+  container-title: The Oxford Handbook of Jewish Studies
+  DOI: 10.1093/oxfordhb/9780199280322.013.0004
+  editor:
+    - family: Goodman
+      given: Martin
+  ISBN: 978-0-19-928032-2
   issued:
-    - year: 2020
-      month: 8
+    - year: 2004
+      month: 12
+      day: 16
+  publisher: Oxford University Press
+  source: Silverchair
+  title: The Literature of the Second Temple Period
+  type: chapter
+  URL: >-
+    https://academic-oup-com.proxy.ub.uni-frankfurt.de/edited-volume/38625/chapter/335224666
+
+- id: costaRemarksNonRabbinicJudaism2021
+  accessed:
+    - year: 2023
+      month: 3
+      day: 21
+  author:
+    - family: Costa
+      given: José
+  citation-key: costaRemarksNonRabbinicJudaism2021
+  collection-title: Cambridge Semitic Languages and Cultures 8
+  container-title: >-
+    Diversity and rabbinization: Jewish texts and societies between 400 and 1000
+    CE
+  DOI: 10.11647/OBP.0219.03
+  editor:
+    - family: McDowell
+      given: Gavin
+    - family: Naiweld
+      given: Ron
+    - family: Stökl Ben Ezra
+      given: Daniel
+  event-place: Cambridge, U.K.
+  issued:
+    - year: 2021
+      month: 4
+      day: 30
   language: en
-  publisher: Cambridge University Press
-  publisher-place: Cambridge
-  source: www-cambridge-org.proxy.ub.uni-frankfurt.de
-  title: Monotheism and Religious Diversity
+  page: 67–118
+  publisher: Open Book Publishers
+  publisher-place: Cambridge, U.K.
+  source: www.openbookpublishers.com
+  title: >-
+    Some Remarks about Non-Rabbinic Judaism, Rabbinization, and Synagogal
+    Judaism
+  type: chapter
+  URL: https://books.openbookpublishers.com/10.11647/obp.0219.03.pdf
+
+- id: crownCompanionSamaritanStudies1993
+  call-number: 80/Ih 15 37
+  citation-key: crownCompanionSamaritanStudies1993
+  editor:
+    - family: Crown
+      given: Alan David
+    - family: Pummer
+      given: Reinhard
+    - family: Tal
+      given: Abraham
+  event-place: Tübingen
+  ISBN: 978-3-16-145666-4
+  issued:
+    - year: 1993
+  number-of-pages: '244'
+  publisher: J.C.B. Mohr (P. Siebeck)
+  publisher-place: Tübingen
+  source: UBFFM BSKW (library use only)
+  title: A companion to Samaritan studies
+  type: book
+
+- id: crownSamaritans1989
+  author:
+    - family: Crown
+      given: Alan David
+  call-number: 02/BC 8790 C953 available IG Farben-Haus, Q6, EG, Raum 621
+  citation-key: crownSamaritans1989
+  event-place: Tübingen
+  ISBN: 978-3-16-145237-6
+  issued:
+    - year: 1989
+  language: eng
+  publisher: J.C.B. Mohr
+  publisher-place: Tübingen
+  source: UBFFM BzG
+  title: The Samaritans
+  type: book
+
+- id: dinerEncyclopediaJewishHistory
+  accessed:
+    - year: 2023
+      month: 4
+      day: 6
+  citation-key: dinerEncyclopediaJewishHistory
+  editor:
+    - family: Diner
+      given: Dan
+  event-place: Leiden
+  ISSN: 2468-8894
+  publisher: Brill
+  publisher-place: Leiden
+  title: Encyclopedia of Jewish History and Culture Online
   type: book
   URL: >-
-    https://www.cambridge.org/core/elements/monotheism-and-religious-diversity/478BBA8657D04822D85B4C78DCF093AA
+    https://referenceworks-1brillonline-1com-11statk71065c.proxy.fid-lizenzen.de/browse/encyclopedia-of-jewish-history-and-culture
+
+- id: dinerEnzyklopadieJudischerGeschichte
+  accessed:
+    - year: 2023
+      month: 4
+      day: 6
+  citation-key: dinerEnzyklopadieJudischerGeschichte
+  editor:
+    - family: Diner
+      given: Dan
+  event-place: Leiden
+  publisher: Brill
+  publisher-place: Leiden
+  title: Enzyklopädie jüdischer Geschichte und Kultur
+  type: book
+  URL: >-
+    https://referenceworks-1brillonline-1com-11statk71065c.proxy.fid-lizenzen.de/browse/enzyklopaedie-judischer-geschichte-und-kultur
+
+- id: dunnChristiansShapingIdentity2015
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2016-68062
+  citation-key: dunnChristiansShapingIdentity2015
+  collection-number: volume 132
+  collection-title: Supplements to Vigiliae Christianae
+  editor:
+    - family: Dunn
+      given: Geoffrey D.
+    - family: Mayer
+      given: Wendy
+  event-place: Leiden Boston (Mass.)
+  ISBN: 978-90-04-29897-2
+  issued:
+    - year: 2015
+  language: eng ger
+  note: >-
+    25 cm. Includes index. "Publications by Pauline Allen"-Pages 13-21. Includes
+    bibliographical references and indexes. Twenty-two contributions in English
+    and 1 in German.
+  number-of-pages: '520'
+  number-of-volumes: '1'
+  publisher: Brill
+  publisher-place: Leiden Boston (Mass.)
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: >-
+    Christians shaping identity from the Roman Empire to Byzantium :  studies
+    inspired by Pauline Allen
+  title-short: Christians shaping identity from the Roman Empire to Byzantium
+  type: book
+
+- id: elmanMiddlePersianCulture2007
+  accessed:
+    - year: 2023
+      month: 4
+      day: 4
+  author:
+    - family: Elman
+      given: Yaakov
+  citation-key: elmanMiddlePersianCulture2007
+  container-title: The Cambridge Companion to the Talmud and Rabbinic Literature
+  DOI: 10.1017/CCOL0521843901.009
+  edition: '1'
+  editor:
+    - family: Fonrobert
+      given: Charlotte Elisheva
+    - family: Jaffee
+      given: Martin S.
+  ISBN: 978-0-521-84390-4 978-0-521-60508-3 978-1-139-00151-9
+  issued:
+    - year: 2007
+      month: 5
+      day: 28
+  language: en
+  page: 165-197
+  publisher: Cambridge University Press
+  source: DOI.org (Crossref)
+  title: >-
+    Middle Persian Culture and Babylonian Sages: Accommodation and Resistance in
+    the Shaping of Rabbinic Legal Tradition
+  title-short: Middle Persian Culture and Babylonian Sages
+  type: chapter
+  URL: >-
+    https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/books/cambridge-companion-to-the-talmud-and-rabbinic-literature/middle-persian-culture-and-babylonian-sages-accommodation-and-resistance-in-the-shaping-of-rabbinic-legal-tradition/F1B8D703DDB7F1CB6E89816465C56887
+
+- id: erderKaraitesSadducees2021
+  accessed:
+    - year: 2023
+      month: 3
+      day: 21
+  author:
+    - family: Erder
+      given: Yoram
+  citation-key: erderKaraitesSadducees2021
+  collection-title: Cambridge Semitic Languages and Cultures 8
+  container-title: >-
+    Diversity and rabbinization: Jewish texts and societies between 400 and 1000
+    CE
+  DOI: 10.11647/OBP.0219.06
+  editor:
+    - family: McDowell
+      given: Gavin
+    - family: Naiweld
+      given: Ron
+    - family: Stökl Ben Ezra
+      given: Daniel
+  event-place: Cambridge, U.K.
+  issued:
+    - year: 2021
+      month: 4
+      day: 30
+  language: en
+  page: 153–164
+  publisher: Open Book Publishers
+  publisher-place: Cambridge, U.K.
+  source: www.openbookpublishers.com
+  title: Karaites and Sadducees
+  type: chapter
+  URL: https://books.openbookpublishers.com/10.11647/obp.0219.06.pdf
+
+- id: flowerRhetoricReligiousIdentity2020
+  abstract: >-
+    The topic of religious identity in late antiquity is highly contentious. How
+    did individuals
+     and groups come to ascribe identities based on what would now be known as 'religion',
+     categorizing themselves and others with regard to Judaism, Manichaeism, traditional
+     Greek and Roman practices, and numerous competing conceptions of Christianity? How
+     and why did examples of self-identification become established, activated, or transformed
+     in response to circumstances? To what extent do labels (whether ancient and modern)
+     for religious categories reflect a sense of a unified and enduring social or group
+     identity for those included within them? How does religious identity relate to other
+     forms of ancient identity politics (for example, ethnic discourse concerning 'barbarians')?
+     0'Rhetoric and Religious Identity in Late Antiquity' responds to the recent upsurge
+     of interest in this issue by developing interdisciplinary research between classics,
+     ancient and medieval history, philosophy, religion, patristics, and Byzantine studies,
+     expanding the range of evidence standardly used to explore these questions. In exploring
+     the malleability and potential overlapping of religious identities in late antiquity,
+     as well as their variable expressions in response to different public and private
+     contexts, it challenges some prominent scholarly paradigms. In particular, rhetoric
+     and religious identity are here brought together and simultaneously interrogated to
+     provide mutual illumination: in what way does a better understanding of rhetoric (its
+     rules, forms, practices) enrich our understanding of the expression of late-antique
+     religious identity? How does an understanding of how religious identity was ascribed,
+     constructed, and contested provide us with a new perspective on rhetoric at work in
+     late antiquity
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2020-222636
+  citation-key: flowerRhetoricReligiousIdentity2020
+  editor:
+    - family: Flower
+      given: Richard
+    - family: Ludlow
+      given: Morwenna
+  event-place: Oxford New York (N.Y.)
+  ISBN: 978-0-19-881319-4
+  issued:
+    - year: 2020
+  language: eng
+  note: ill. 25 cm. Bibliogr. p. 251-281. Index.
+  number-of-pages: '287'
+  number-of-volumes: '1'
+  publisher: Oxford university press
+  publisher-place: Oxford New York (N.Y.)
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: Rhetoric and religious identity in late antiquity
+  type: book
+
+- id: fonrobertCambridgeCompanionTalmud2007
+  author:
+    - family: Fonrobert
+      given: Charlotte Elisheva
+  citation-key: fonrobertCambridgeCompanionTalmud2007
+  collection-title: Cambridge companions to religion
+  event-place: Cambridge
+  ISBN: 978-0-521-84390-4
+  issued:
+    - year: 2007
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  title: The Cambridge companion to the Talmud and rabbinic literature
+  type: book
+  URL: https://doi.org/10.1017/CCOL0521843901
+
+- id: fonrobertIntroductionTalmudRabbinic2007
+  accessed:
+    - year: 2023
+      month: 4
+      day: 4
+  author:
+    - family: Fonrobert
+      given: Charlotte Elisheve
+    - family: Jaffee
+      given: Martin S.
+  citation-key: fonrobertIntroductionTalmudRabbinic2007
+  container-title: The Cambridge Companion to the Talmud and Rabbinic Literature
+  DOI: 10.1017/CCOL0521843901.001
+  edition: '1'
+  editor:
+    - family: Fonrobert
+      given: Charlotte Elisheva
+    - family: Jaffee
+      given: Martin S.
+  ISBN: 978-0-521-84390-4 978-0-521-60508-3 978-1-139-00151-9
+  issued:
+    - year: 2007
+      month: 5
+      day: 28
+  language: en
+  page: 1-14
+  publisher: Cambridge University Press
+  source: DOI.org (Crossref)
+  title: 'Introduction: The Talmud, Rabbinic Literature, and Jewish Culture'
+  title-short: Introduction
+  type: chapter
+  URL: >-
+    https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/books/cambridge-companion-to-the-talmud-and-rabbinic-literature/introduction-the-talmud-rabbinic-literature-and-jewish-culture/20E3330F3077CB4AF514880145B83DC0
+
+- id: fontanaCittadinanzaSinaitica2019
+  abstract: >-
+    "Vi è posto per lo straniero nella società ebraica? Per il non-ebreo ai
+    piedi del
+     Sinai? La posta in gioco del Sinai è più che mai manifesta nella costruzione rabbinica
+     della cittadinanza. Operazione ermeneutica assai complessa. I maestri di Israele l'hanno
+     compiuta ritenendo che gli stessi ebrei ai piedi del Sinai ebbero accesso all'Alleanza
+     come proseliti. È questa l'espressione che essi hanno dato al proprio costituirsi
+     come cittadini di una comunità ermeneutica per eccellenza. Tale fu la comunità nata
+     ai piedi del Sinai. Ed ermeneutico è appunto il gesto che soppianta con il proselito
+     la figura biblica dello straniero, e questo entro il quadro di un'Alleanza ora estesa
+     all'intero orizzonte storico e naturale. E di cui la Torah sinaitica è la Carta
+  author:
+    - family: Fontana
+      given: Raniero
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2020-166690
+  citation-key: fontanaCittadinanzaSinaitica2019
+  collection-number: n. 648
+  collection-title: Filosofie
+  event-place: Milano
+  ISBN: 978-88-575-6089-2
+  issued:
+    - year: 2019
+  language: ita
+  note: 17 cm. Notes bibliogr.
+  number-of-pages: '162'
+  number-of-volumes: '1'
+  publisher: Mimesis
+  publisher-place: Milano
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: La cittadinanza sinaitica
+  type: book
+
+- id: fraadeConceptsScriptureRabbinic2012
+  abstract: >-
+    3 Concepts of Scripture in Rabbinic Judaism: Oral Torah and Written Torah
+    was published in Jewish Concepts of Scripture on page 31.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 10
+  author:
+    - family: Fraade
+      given: Steven D.
+  call-number: 90.227.22
+  citation-key: fraadeConceptsScriptureRabbinic2012
+  container-title: 'Jewish concepts of Scripture: a comparative introduction'
+  DOI: 10.18574/nyu/9780814740620.003.0003
+  ISBN: 978-0-8147-2479-8
+  issued:
+    - year: 2012
+      month: 10
+      day: 29
+  language: en
+  page: 31-46
+  publisher: New York University Press
+  source: UBFFM ZB
+  title: 'Concepts of Scripture in Rabbinic Judaism: Oral Torah and Written Torah'
+  title-short: 3 Concepts of Scripture in Rabbinic Judaism
+  type: chapter
+  URL: >-
+    https://www.degruyter.com/document/doi/10.18574/nyu/9780814740620.003.0003/html
+
+- id: fraadeRabbinicMidrashAncient2007
+  accessed:
+    - year: 2023
+      month: 4
+      day: 4
+  author:
+    - family: Fraade
+      given: Steven D.
+  citation-key: fraadeRabbinicMidrashAncient2007
+  container-title: The Cambridge Companion to the Talmud and Rabbinic Literature
+  DOI: 10.1017/CCOL0521843901.006
+  edition: '1'
+  editor:
+    - family: Fonrobert
+      given: Charlotte Elisheva
+    - family: Jaffee
+      given: Martin S.
+  ISBN: 978-0-521-84390-4 978-0-521-60508-3 978-1-139-00151-9
+  issued:
+    - year: 2007
+      month: 5
+      day: 28
+  language: en
+  page: 99-120
+  publisher: Cambridge University Press
+  source: DOI.org (Crossref)
+  title: Rabbinic *Midrash* and Ancient Jewish Biblical Interpretation
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/18063786011/CourseNode/93668888136198/7+-+Fraade+-+2007+-+Rabbinic+Midrash+and+Ancient+Jewish+Biblica.pdf
+
+- id: fredriksenWhatPartingWays2003
+  author:
+    - family: Fredriksen
+      given: Paula
+  call-number: 13.219.31
+  citation-key: fredriksenWhatPartingWays2003
+  collection-number: '95'
+  collection-title: Texts and studies in ancient Judaism
+  container-title: The ways that never parted
+  editor:
+    - family: Becker
+      given: Adam H.
+    - family: Reed
+      given: Annette Yoshiko
+  event-place: Tübingen
+  ISBN: 978-3-16-147966-3
+  issued:
+    - year: 2003
+  language: en
+  page: 35-64
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: UBFFM ZB
+  title: >-
+    What "parting of the ways"? Jews, Gentiles, and the ancient Mediterranean
+    city
+  type: chapter
+
+- id: freidenreichUseIslamicSources2003
+  abstract: >-
+    Saadiah Gaon's influential translation of the Torah into Arabic has long
+    been known to contain countless "mistranslations," passages in which Saadiah
+    consciously modifies the biblical text to conform to Arabic literary style
+    or to his own beliefs and understanding of the Bible. Several of the
+    modifications found in Saadiah's "Tafsīr" derive from Islamic sources,
+    including Islamic terminology and phraseology, Islamic law and tradition,
+    and the Qur'an itself. This paper examines those passages in the "Tafsīr" of
+    the Torah which reflect Islamic influence in an attempt to understand how,
+    in a work written for a Jewish audience, Saadiah utilizes material gleaned
+    from the dominant religion of his day and why on several occasions the gaon
+    prefers Islamic interpretations over the existing rabbinic and biblical
+    alternatives.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 10
+  author:
+    - family: Freidenreich
+      given: David M.
+  citation-key: freidenreichUseIslamicSources2003
+  container-title: The Jewish Quarterly Review
+  ISSN: 0021-6682
+  issue: 3/4
+  issued:
+    - year: 2003
+  page: 353-395
+  publisher: >-
+    [University of Pennsylvania Press, Center for Advanced Judaic Studies,
+    University of Pennsylvania]
+  source: JSTOR
+  title: The Use of Islamic Sources in Saadiah Gaon's "Tafsīr" of the Torah
+  type: article-journal
+  URL: https://www-jstor-org.proxy.ub.uni-frankfurt.de/stable/1455666
+  volume: '93'
+
+- id: furstenbergJewishChristianCommunal2016
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2016-201008
+  citation-key: furstenbergJewishChristianCommunal2016
+  collection-number: '94'
+  collection-title: Ancient Judaism and early Christianity
+  editor:
+    - family: Furstenberg
+      given: Yair
+  event-place: Leiden Boston (Mass.)
+  ISBN: 978-90-04-32121-2
+  issued:
+    - year: 2016
+  language: eng
+  note: 25 cm. Includes bibliographical references and index.
+  publisher: Brill
+  publisher-place: Leiden Boston (Mass.)
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: Jewish and Christian communal identities in the Roman world
+  type: book
+
+- id: gillmayr-bucherPrayersConstructionIsraelite2019
+  abstract: >-
+    This collection of essays from an international group of scholars explores
+    how the
+     elaboration of biblical prayers of the Persian and early Hellenistic periods shaped
+     identity, evoked a sense of belonging to specific groups, and added emotional significance
+     to this affiliation. Contributors draw examples from different biblical texts, including
+     Genesis, Samuel, Kings, Chronicles, Ezra and Nehemiah, Psalms, Jonah, and Daniel,
+     to illustrate the transformation from short, individual prayers to longer theological
+     and historical reflections, ritualized recitations, confirmations of hope, prophecy,
+     and penitential prayers. Essays approach the texts from different perspectives, showing
+     how prayers play a key role in the construction of biblical bboks, how biblical figures
+     are charaterized by prayers, and how these prayers shape and modify individual and
+     collective identity discourses
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2020-133819
+  citation-key: gillmayr-bucherPrayersConstructionIsraelite2019
+  collection-number: Number 35
+  collection-title: Ancient Israel and its literature
+  editor:
+    - family: Gillmayr-Bucher
+      given: Susanne
+    - family: Häusl
+      given: Maria
+  event-place: Atlanta (Ga.)
+  ISBN: 978-1-62837-243-4
+  issued:
+    - year: 2019
+  language: eng
+  note: ill. 23 cm. Bibliogr. en fin de contributions. Index.
+  number-of-pages: '245'
+  number-of-volumes: '1'
+  publisher: SBL Press
+  publisher-place: Atlanta (Ga.)
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: Prayers and the construction of Israelite identity
+  type: book
+
+- id: glatzerJudaicTraditionJewish1987
+  author:
+    - family: Glatzer
+      given: Nahum N.
+  citation-key: glatzerJudaicTraditionJewish1987
+  event-place: Northvale, N.J.
+  ISBN: 978-0-87668-984-4
+  issued:
+    - year: 1987
+  language: eng
+  note: 'OCLC: 16685182'
+  number-of-pages: '838'
+  publisher: J. Aronson
+  publisher-place: Northvale, N.J.
+  source: Open WorldCat
+  title: 'The Judaic tradition: Jewish writings from antiquity to the modern age'
+  title-short: The Judaic tradition
+  type: book
+
+- id: goldbergMishnaStudyBook1987
+  author:
+    - family: Goldberg
+      given: Abraham
+  call-number: 80/Es 21 55 Bd 2
+  citation-key: goldbergMishnaStudyBook1987
+  collection-title: Compendia rerum Iudaicarum ad Novum Testamentum
+  container-title: >-
+    Compendia rerum Iudaicarum ad Novum Testamentum. Section 2: The Literature
+    of the Jewish people in the period of the Second Temple and the Talmud
+  editor:
+    - family: Stone
+      given: Michael E.
+    - family: Safrai
+      given: Shmuel
+  event-place: 'Assen, Netherlands : Philadelphia'
+  ISBN: 978-0-8006-0603-9 978-90-232-4222-2 978-0-8006-0606-0
+  issued:
+    - year: 1987
+  page: 211-251
+  publisher: Van Gorcum ; Fortress Press
+  publisher-place: 'Assen, Netherlands : Philadelphia'
+  source: UBFFM BSKW (library use only)
+  title: The Mishna - A Study Book of Halakha
+  type: chapter
+  volume: 3.1 The Literature of the Sages
+
+- id: goodmanJewsJudaismSecond2004
+  abstract: >-
+    For all Jews in this period, in both diaspora and homeland, the Jerusalem
+    Temple was the central religious institution. The wide dispersal of Jews
+    prevented many from regular participation in Temple worship, but no
+    religious Jew seem to have ignored the significance of the sacrificial and
+    other offerings in Jerusalem. The second pillar of common Judaism was the
+    Torah. It was during these centuries that the biblical text took a form
+    resembling that of the present day and acquired something close to its later
+    authority. Most of the debate about the relation of Jews to the surrounding
+    culture has concentrated on the Hellenization of Judaism. The motivation of
+    Christian scholars for investigating the relationship of Judaism and
+    Hellenism has naturally been very different and more concerned with the
+    origins of ideas found in the early Church.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 3
+  author:
+    - family: Goodman
+      given: Martin
+  citation-key: goodmanJewsJudaismSecond2004
+  container-title: The Oxford Handbook of Jewish Studies
+  DOI: 10.1093/oxfordhb/9780199280322.013.0003
+  editor:
+    - family: Goodman
+      given: Martin
+  ISBN: 978-0-19-928032-2
+  issued:
+    - year: 2004
+      month: 12
+      day: 16
+  page: 36-52
+  publisher: Oxford University Press
+  source: Silverchair
+  title: Jews and Judaism in the Second Temple Period
+  type: chapter
+  URL: >-
+    https://academic-oup-com.proxy.ub.uni-frankfurt.de/edited-volume/38625/chapter/335224566
+
+- id: goodmanOxfordHandbookJewish2002
+  author:
+    - family: Goodman
+      given: Martin
+  citation-key: goodmanOxfordHandbookJewish2002
+  event-place: Oxford
+  ISBN: 978-0-19-829996-7
+  issued:
+    - year: 2002
+  number-of-pages: XIV, 1037 S.
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: The Oxford handbook of Jewish studies
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Fdx.doi.org%2F10.1093%2Foxfordhb%2F9780199280322.001.0001
+
+- id: greggSharedStoriesRival2015
+  author:
+    - family: Gregg
+      given: Robert C.
+  citation-key: greggSharedStoriesRival2015
+  event-place: Oxford
+  ISBN: 978-0-19-023149-1
+  issued:
+    date-parts:
+      - - '2015'
+  number-of-pages: 'xviii, 721 Seiten :'
+  original-date:
+    - year: 2015
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: Shared stories, rival tellings
+  type: book
+
+- id: grossBabylonianJewishSociety2022
+  accessed:
+    - year: 2023
+      month: 3
+      day: 21
+  author:
+    - family: Gross
+      given: Simcha
+    - family: Manekin-Bamberger
+      given: Avigail
+  citation-key: grossBabylonianJewishSociety2022
+  container-title: Jewish Quarterly Review
+  container-title-short: Jewish Quarterly Review
+  DOI: 10.1353/jqr.2022.0000
+  ISSN: 1553-0604
+  issue: '2'
+  issued:
+    - year: 2022
+  language: en
+  page: 1-30
+  source: DOI.org (Crossref)
+  title: 'Babylonian Jewish Society: The Evidence of the Incantation Bowls'
+  title-short: Babylonian Jewish Society
+  type: article-journal
+  URL: https://muse-jhu-edu.proxy.ub.uni-frankfurt.de/article/849193
+  volume: '112'
+
+- id: gurtnerClarkEncyclopediaSecond2020
+  abstract: >-
+    The T & T Clark Encyclopedia of Second Temple Judaism provides a
+    comprehensive reference resource of over 600 scholarly articles aimed at
+    those studying Judaism in the Second Temple Period, and the numerous texts
+    and artefacts related to it. The work is split into four parts across two
+    volumes. Part One locates the discipline in relation to other relevant
+    fields (for example the Hebrew Bible, Rabbinics, Christian Origins) and
+    provides an orientation to the discipline's distinctive nomenclatures and
+    debates. The history of research in the area is also presented in full. Part
+    Two presents an overview of respective contexts of the discipline set within
+    the broad framework of historical chronology. Social/cultural, literary,
+    linguistic, geographical, political, and religious contexts are all
+    explained, from the time period of the conquests of Alexander the Great (332
+    B.C.E.) through to the reign of Hadrian (135 C.E.). Part Three focuses
+    specifically on the literature of the Second Temple period, summarizing the
+    content of key texts, and examining their similarities and differences with
+    other texts of the period. This section includes surveys of scholarship on
+    date, provenance, location, language(s), and interpretative issues. The
+    reception history of texts is considered. Part Four addresses topics,
+    specifically those relevant to Second Temple literature such as places,
+    practices, historical figures and artefacts. The volumes include 14
+    specially created color maps and over 60 charts and illustrations
+  call-number: 'LS Spez/HB 24: ZC 4 (non-circulating)'
+  citation-key: gurtnerClarkEncyclopediaSecond2020
+  collection-title: T&T Clark encyclopedia of Second Temple Judaism
+  editor:
+    - family: Gurtner
+      given: Daniel M.
+    - family: Stuckenbruck
+      given: Loren T.
+  event-place: London
+  ISBN: 978-0-567-65811-1 978-0-567-66094-7 978-0-567-66144-9
+  issued:
+    - year: 2020
+  note: 'OCLC: on1003204298'
+  number-of-volumes: '2'
+  publisher: 'New York, NY : T&T Clark'
+  publisher-place: London
+  source: UBFFM ZB
+  title: T & T Clark encyclopedia of Second Temple Judaism
+  type: book
+
+- id: hartmanMidrashLiterature1986
+  call-number: LE 381.5
+  citation-key: hartmanMidrashLiterature1986
+  editor:
+    - family: Hartman
+      given: Geoffrey H.
+    - family: Budick
+      given: Sanford
+  event-place: New Haven, Conn
+  ISBN: 978-0-300-03453-0
+  issued:
+    - year: 1986
+  number-of-pages: '412'
+  publisher: Yale University Press
+  publisher-place: New Haven, Conn
+  source: UBFFM BzG
+  title: Midrash and literature
+  type: book
+
+- id: hasan-rokemAlmostInvisiblePresence2007
+  accessed:
+    - year: 2023
+      month: 4
+      day: 4
+  author:
+    - family: Hasan-Rokem
+      given: Galit
+  citation-key: hasan-rokemAlmostInvisiblePresence2007
+  container-title: The Cambridge Companion to the Talmud and Rabbinic Literature
+  DOI: 10.1017/CCOL0521843901.011
+  edition: '1'
+  editor:
+    - family: Fonrobert
+      given: Charlotte Elisheva
+    - family: Jaffee
+      given: Martin S.
+  ISBN: 978-0-521-84390-4 978-0-521-60508-3 978-1-139-00151-9
+  issued:
+    - year: 2007
+      month: 5
+      day: 28
+  language: en
+  page: 222-240
+  publisher: Cambridge University Press
+  source: DOI.org (Crossref)
+  title: 'An Almost Invisible Presence: Multilingual Puns in Rabbinic Literature'
+  title-short: An Almost Invisible Presence
+  type: chapter
+  URL: >-
+    https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/books/cambridge-companion-to-the-talmud-and-rabbinic-literature/an-almost-invisible-presence-multilingual-puns-in-rabbinic-literature/2018A2CE516A745B6336D29DE216B426
+
+- id: hayesOtherRabbinicLiterature2007
+  accessed:
+    - year: 2023
+      month: 4
+      day: 4
+  author:
+    - family: Hayes
+      given: Christine
+  citation-key: hayesOtherRabbinicLiterature2007
+  container-title: The Cambridge Companion to the Talmud and Rabbinic Literature
+  DOI: 10.1017/CCOL0521843901.012
+  edition: '1'
+  editor:
+    - family: Fonrobert
+      given: Charlotte Elisheva
+    - family: Jaffee
+      given: Martin S.
+  ISBN: 978-0-521-84390-4 978-0-521-60508-3 978-1-139-00151-9
+  issued:
+    - year: 2007
+      month: 5
+      day: 28
+  language: en
+  page: 243-269
+  publisher: Cambridge University Press
+  source: DOI.org (Crossref)
+  title: The “Other” in Rabbinic Literature
+  type: chapter
+  URL: >-
+    https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/books/cambridge-companion-to-the-talmud-and-rabbinic-literature/other-in-rabbinic-literature/20B038995CFCB606BA4D3740DA516DEB
+
+- id: hermanSearchNonRabbinicJudaism2021
+  accessed:
+    - year: 2023
+      month: 3
+      day: 21
+  author:
+    - family: Herman
+      given: Geoffrey
+  citation-key: hermanSearchNonRabbinicJudaism2021
+  collection-title: Cambridge Semitic Languages and Cultures 8
+  container-title: >-
+    Diversity and rabbinization: Jewish texts and societies between 400 and 1000
+    CE
+  DOI: 10.11647/OBP.0219.04
+  editor:
+    - family: McDowell
+      given: Gavin
+    - family: Naiweld
+      given: Ron
+    - family: Stökl Ben Ezra
+      given: Daniel
+  event-place: Cambridge, U.K.
+  issued:
+    - year: 2021
+      month: 4
+      day: 30
+  language: en
+  page: 121–138
+  publisher: Open Book Publishers
+  publisher-place: Cambridge, U.K.
+  source: www.openbookpublishers.com
+  title: In Search of Non-Rabbinic Judaism in Sasanian Babylonia
+  type: chapter
+  URL: https://books.openbookpublishers.com/10.11647/obp.0219.04.pdf
+
+- id: hezserClassicalRabbinicLiterature2004
+  abstract: >-
+    Classical rabbinic literature comprises all those ancient Jewish literary
+    compilations which transmit the traditions of tannaitic (70–200 ce) and
+    amoraic (third-to fifth-century ce) rabbis in Palestine and Babylonia: the
+    Mishnah, the Tosefta, the Palestinian and the Babylonian Talmud, and various
+    midrashim. Accordingly, rabbinic literature must be seen as a collective
+    rather than an authorial literature, transmitting a wide variety of partly
+    divergent and contradictory views and teachings rather than providing a
+    linear systematic outline of a particular individual's point of view. The
+    critical study of rabbinic literature began in the nineteenth century with
+    the so-called Wissenschaft des Judentums (Science of Judaism), whose
+    representatives began to apply to rabbinic texts historical and philological
+    methods which were also used in other fields of the humanities. The
+    application of methods and theories from related fields such as literary
+    theory allows one to see the texts from a new perspective.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 3
+  author:
+    - family: Hezser
+      given: Catherine
+  citation-key: hezserClassicalRabbinicLiterature2004
+  container-title: The Oxford Handbook of Jewish Studies
+  DOI: 10.1093/oxfordhb/9780199280322.013.0006
+  editor:
+    - family: Goodman
+      given: Martin
+  ISBN: 978-0-19-928032-2
+  issued:
+    - year: 2004
+      month: 12
+      day: 16
+  page: 115–140
+  publisher: Oxford University Press
+  source: Silverchair
+  title: Classical Rabbinic Literature
+  type: chapter
+  URL: >-
+    https://doi-org.proxy.ub.uni-frankfurt.de/10.1093/oxfordhb/9780199280322.013.0006
+
+- id: hezserSocialStructureRabbinic1997
+  author:
+    - family: Hezser
+      given: Catherine
+  citation-key: hezserSocialStructureRabbinic1997
+  collection-title: Texte und Studien zum antiken Judentum
+  ISBN: 978-3-16-146797-4
+  issued:
+    - year: 1997
+  publisher: Mohr Siebeck
+  title: The social structure of the rabbinic movement in Roman Palestine
+  type: book
+
+- id: HowRabbisBecame2025
+  accessed:
+    - year: 2025
+      month: 4
+      day: 30
+  citation-key: HowRabbisBecame2025
+  ISBN: '9780691266763'
+  issued:
+    - literal: Tue, 04/22/2025 - 12:00
+  language: en
+  title: How Rabbis Became Experts | Princeton University Press
+  type: webpage
+  URL: >-
+    https://press.princeton.edu/books/hardcover/9780691266763/how-rabbis-became-experts
+
+- id: kartveitTheoriesOriginSamaritans2019
+  abstract: >-
+    The article describes the different models for understanding the origin of
+    the Samaritans: the Samaritans’ own view; Flavius Josephus’ two stories; a
+    model based upon the results of the excavations of the cities of Samaria and
+    Shechem, plus information from ancient authors; new insights from the Dead
+    Sea Scrolls; and models based on the results of the Mount Gerizim
+    excavations; and the Delos inscriptions. Each of these models has its modern
+    followers in scholarship, and their various adherents are named. A last part
+    of the article is devoted to the state of the question of the origin of the
+    Samaritans. The presentation is organized according to the sources because
+    the material at hand has produced different solutions to the pertinent
+    questions. Through quoting the texts and presenting the results of the
+    excavations, the author gives the reader an opportunity to form her or his
+    own opinions, both on the different theories and on the origin of the
+    Samaritans.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 10
+  author:
+    - family: Kartveit
+      given: Magnar
+  citation-key: kartveitTheoriesOriginSamaritans2019
+  container-title: Religions
+  DOI: 10.3390/rel10120661
+  ISSN: 2077-1444
+  issue: '12'
+  issued:
+    - year: 2019
+      month: 12
+  language: en
+  license: http://creativecommons.org/licenses/by/3.0/
+  number: '12'
+  page: '661'
+  publisher: Multidisciplinary Digital Publishing Institute
+  source: www.mdpi.com
+  title: Theories of the Origin of the Samaritans—Then and Now
+  type: article-journal
+  URL: https://www.mdpi.com/2077-1444/10/12/661
+  volume: '10'
+
+- id: khanJudaeoArabicJudaeoPersian2004
+  abstract: >-
+    The term ‘Judaeo-Arabic’ refers to a type of Arabic that was used by Jews
+    and was distinct in some way from other types of Arabic. The Arabic language
+    was used by Jews in Arabia before the rise of Islam. From the point of view
+    of linguistic form, the following characteristic features of written
+    Judaeo-Arabic can be identified: it is written in Hebrew script; it exhibits
+    deviations from Classical Arabic; and it contains Hebrew and Aramaic
+    elements. ‘Judaeo-Persian’ refers to Persian used by Jews. Like
+    Judaeo-Arabic, Judaeo-Persian is not a uniform linguistic entity. The term
+    is used to refer to both a written and a spoken form of language. The
+    geographical area in which it was used extended beyond the boundaries of
+    Iran and included Afghanistan, part of the Caucasus, and much of Central
+    Asia. Judaeo-Persian in its written form is represented in Hebrew script.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 3
+  author:
+    - family: Khan
+      given: Geoffrey
+  citation-key: khanJudaeoArabicJudaeoPersian2004
+  container-title: The Oxford Handbook of Jewish Studies
+  DOI: 10.1093/oxfordhb/9780199280322.013.0024
+  editor:
+    - family: Goodman
+      given: Martin
+  ISBN: 978-0-19-928032-2
+  issued:
+    - year: 2004
+      month: 12
+      day: 16
+  page: 601–620
+  publisher: Oxford University Press
+  source: Silverchair
+  title: Judaeo-Arabic and Judaeo-Persian
+  type: chapter
+  URL: >-
+    https://doi-org.proxy.ub.uni-frankfurt.de/10.1093/oxfordhb/9780199280322.013.0024
+
+- id: kratzQumranSchriftrollenVom2022
+  accessed:
+    - year: 2022
+      month: 11
+      day: 25
+  author:
+    - family: Kratz
+      given: Reinhard G.
+  citation-key: kratzQumranSchriftrollenVom2022
+  event-place: München
+  ISBN: 978-3-406-78175-9
+  issued:
+    - year: 2022
+  language: ger
+  note: 'OCLC: 1321806587'
+  number-of-pages: '1'
+  publisher: C.H. Beck
+  publisher-place: München
+  source: Open WorldCat
+  title: >-
+    Qumran. Die Schriftrollen vom Toten Meer und die Entstehung des biblischen
+    Judentums
+  type: book
+  URL: >-
+    https://public.ebookcentral.proquest.com/choice/PublicFullRecord.aspx?p=6990849
+
+- id: landesPiyyutMishnahRabbinization2023
+  accessed:
+    - year: 2023
+      month: 3
+      day: 21
+  author:
+    - family: Landes
+      given: Yitz
+  citation-key: landesPiyyutMishnahRabbinization2023
+  container-title: Jewish Studies Quarterly
+  container-title-short: JSQ
+  DOI: 10.1628/jsq-2023-0003
+  ISSN: 0944-5706
+  issue: '1'
+  issued:
+    - year: 2023
+  language: en
+  page: '28'
+  source: DOI.org (Crossref)
+  title: Piyyut, Mishnah and Rabbinization in the Sixth to Eighth Centuries
+  type: article-journal
+  URL: >-
+    https://www-mohrsiebeck-com.proxy.ub.uni-frankfurt.de/artikel/piyyut-mishnah-and-rabbinization-in-the-sixth-to-eighth-centuries-101628jsq-2023-0003?no_cache=1
+  volume: '30'
+
+- id: langerWurzelnMidraschUnd2016
+  author:
+    - family: Langer
+      given: Gerhard
+  call-number: 80/Eo 10 43
+  citation-key: langerWurzelnMidraschUnd2016
+  container-title: Midrasch
+  event-place: Tübingen
+  ISBN: 978-3-8252-4675-4
+  issued:
+    - year: 2016
+  page: 95-127
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: UBFFM BSKW (library use only)
+  title: >-
+    Wurzeln des Midrasch und die Entwicklung midraschischer Elemente außerhalb
+    der rabbinischen Literatur
+  type: chapter
+
+- id: laskerKaraism2010
+  accessed:
+    - year: 2023
+      month: 4
+      day: 6
+  author:
+    - family: Lasker
+      given: Daniel J.
+    - family: Beinin
+      given: Joel
+  citation-key: laskerKaraism2010
+  container-title: Encyclopedia of Jews in the Islamic World
+  editor:
+    - family: Stillman
+      given: Norman A.
+  event-place: Leiden
+  issued:
+    - year: 2010
+  language: en
+  publisher: Brill
+  publisher-place: Leiden
+  title: Karaism
+  type: chapter
+  URL: >-
+    http://dx.doi.org.proxy.ub.uni-frankfurt.de/10.1163/1878-9781_ejiw_COM_0012630
+
+- id: levineDiversityAncientSynagogue2021
+  accessed:
+    - year: 2023
+      month: 3
+      day: 21
+  author:
+    - family: Levine
+      given: Lee I.
+  citation-key: levineDiversityAncientSynagogue2021
+  collection-title: Cambridge Semitic Languages and Cultures 8
+  container-title: >-
+    Diversity and rabbinization: Jewish texts and societies between 400 and 1000
+    CE
+  DOI: 10.11647/obp.0219.16
+  editor:
+    - family: McDowell
+      given: Gavin
+    - family: Naiweld
+      given: Ron
+    - family: Stökl Ben Ezra
+      given: Daniel
+  event-place: Cambridge, U.K.
+  issued:
+    - year: 2021
+      month: 4
+      day: 30
+  language: en
+  page: 3-32
+  publisher: Open Book Publishers
+  publisher-place: Cambridge, U.K.
+  source: www.openbookpublishers.com
+  title: >-
+    Diversity in the Ancient Synagogue of Roman-Byzantine Palestine: Historical
+    Implications
+  type: chapter
+  URL: https://books.openbookpublishers.com/10.11647/obp.0219.01.pdf
+
+- id: maierJudentumStudiumReligionen2013
+  author:
+    - family: Maier
+      given: Johann (Verfasser)
+  citation-key: maierJudentumStudiumReligionen2013
+  edition: 2., durchgesehene Auflage
+  event-place: Stuttgart, Germany
+  ISBN: 978-3-8385-4072-6
+  issued:
+    - year: 2013
+  number-of-pages: 1 Online-Ressource (239 Seiten)
+  publisher: Vandenhoeck & Ruprecht
+  publisher-place: Stuttgart, Germany
+  source: COinS
+  title: 'Judentum : Studium Religionen'
+  title-short: Judentum
+  type: book
+
+- id: mcdowellDiversityRabbinizationJewish2021
+  abstract: >-
+    This volume is dedicated to the cultural and religious diversity in Jewish
+    communities from Late Antiquity to the Early Middle Age and the growing
+    influence of the rabbis within these communities during the same period.
+  accessed:
+    - year: 2022
+      month: 11
+      day: 26
+  author:
+    - family: McDowell
+      given: Gavin
+    - family: Naiweld
+      given: Ron
+    - family: Stökl Ben Ezra
+      given: Daniel
+  citation-key: mcdowellDiversityRabbinizationJewish2021
+  DOI: 10.11647/obp.0219
+  ISBN: >-
+    978-1-78374-993-5 978-1-78374-994-2 978-1-78374-995-9 978-1-80064-624-7
+    978-1-78374-998-0 978-1-78374-996-6 978-1-78374-997-3
+  issued:
+    - year: 2021
+      month: 4
+      day: 30
+  language: English
+  publisher: Open Book Publishers
+  source: www.openbookpublishers.com
+  title: >-
+    Diversity and Rabbinization: Jewish Texts and Societies between 400 and 1000
+    CE
+  title-short: Diversity and Rabbinization
+  type: book
+  URL: https://www.openbookpublishers.com/books/10.11647/obp.0219
+
+- id: mcdowellIntroduction2021
+  accessed:
+    - year: 2023
+      month: 3
+      day: 21
+  author:
+    - family: McDowell
+      given: Gavin
+    - family: Naiweld
+      given: Ron
+    - family: Stökl Ben Ezra
+      given: Daniel
+  citation-key: mcdowellIntroduction2021
+  collection-title: Cambridge Semitic Languages and Cultures 8
+  container-title: >-
+    Diversity and rabbinization: Jewish texts and societies between 400 and 1000
+    CE
+  DOI: 10.11647/obp.0219.16
+  editor:
+    - family: McDowell
+      given: Gavin
+    - family: Naiweld
+      given: Ron
+    - family: Stökl Ben Ezra
+      given: Daniel
+  event-place: Cambridge, U.K.
+  issued:
+    - year: 2021
+      month: 4
+      day: 30
+  language: en
+  page: xv-xxiv
+  publisher: Open Book Publishers
+  publisher-place: Cambridge, U.K.
+  source: www.openbookpublishers.com
+  title: Introduction
+  type: chapter
+  URL: https://books.openbookpublishers.com/10.11647/obp.0219.16.pdf
+
+- id: mcdowellRabbinizationNonRabbinicMaterial2021
+  accessed:
+    - year: 2023
+      month: 3
+      day: 21
+  author:
+    - family: McDowell
+      given: Gavin
+  citation-key: mcdowellRabbinizationNonRabbinicMaterial2021
+  collection-title: Cambridge Semitic Languages and Cultures 8
+  container-title: >-
+    Diversity and rabbinization: Jewish texts and societies between 400 and 1000
+    CE
+  DOI: 10.11647/OBP.0219.13
+  editor:
+    - family: McDowell
+      given: Gavin
+    - family: Naiweld
+      given: Ron
+    - family: Stökl Ben Ezra
+      given: Daniel
+  event-place: Cambridge, U.K.
+  issued:
+    - year: 2021
+      month: 4
+      day: 30
+  language: en
+  page: 381–412
+  publisher: Open Book Publishers
+  publisher-place: Cambridge, U.K.
+  source: www.openbookpublishers.com
+  title: Rabbinization of Non-Rabbinic Material in Pirqe de-Rabbi Eliezer
+  type: chapter
+  URL: https://books.openbookpublishers.com/10.11647/obp.0219.13.pdf
+
+- id: munz-manorLiturgicalPoetryLate2010
+  abstract: >-
+    The article presents a contemporary view of the study of piyyut,
+    demonstrating that Jewish poetry of late antiquity (in Hebrew and Aramaic)
+    was closely related to Christian liturgical poetry (both Syriac and Greek)
+    and Samaritan liturgy. These relations were expressed primarily by common
+    poetic and prosodic characteristics, derived on the one hand from ancient
+    Semitic poetry (mainly biblical poetry), and on the other from innovations
+    of the period. The significant connections of content between the different
+    genres of poetry reveal the importance of comparative study. Thus the poetry
+    composed in late antiquity provides additional evidence for the lively
+    cultural dialogue that took place at that time.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 10
+  author:
+    - family: Münz-Manor
+      given: Ophir
+  citation-key: munz-manorLiturgicalPoetryLate2010
+  container-title: Journal of Ancient Judaism
+  DOI: 10.30965/21967954-00103005
+  ISSN: 2196-7954, 1869-3296
+  issue: '3'
+  issued:
+    - year: 2010
+      month: 5
+      day: 6
+  language: eng
+  page: 336-361
+  publisher: Brill Schöningh
+  source: brill-com.proxy.ub.uni-frankfurt.de
+  title: 'Liturgical Poetry in the Late Antique Near East: A Comparative Approach'
+  title-short: Liturgical Poetry in the Late Antique Near East
+  type: article-journal
+  URL: >-
+    https://brill-com.proxy.ub.uni-frankfurt.de/view/journals/jaj/1/3/article-p336_5.xml
+  volume: '1'
+
+- id: nachamaBasiswissenJudentum2015
+  author:
+    - family: Nachama
+      given: Andreas
+    - family: Homolka
+      given: Walter
+    - family: Bomhoff
+      given: Hartmut
+    - family: Brandt
+      given: Henry G.
+  citation-key: nachamaBasiswissenJudentum2015
+  event-place: Freiburg
+  ISBN: 978-3-451-32393-5
+  issued:
+    - year: 2015
+  number-of-pages: 685 Seiten
+  publisher: Herder
+  publisher-place: Freiburg
+  source: COinS
+  title: Basiswissen Judentum
+  type: book
+
+- id: naiweldRabbinizationTractatesPropagation2021
+  accessed:
+    - year: 2023
+      month: 3
+      day: 21
+  author:
+    - family: Naiweld
+      given: Ron
+  citation-key: naiweldRabbinizationTractatesPropagation2021
+  collection-title: Cambridge Semitic Languages and Cultures 8
+  container-title: >-
+    Diversity and rabbinization: Jewish texts and societies between 400 and 1000
+    CE
+  DOI: 10.11647/OBP.0219.11
+  editor:
+    - family: McDowell
+      given: Gavin
+    - family: Naiweld
+      given: Ron
+    - family: Stökl Ben Ezra
+      given: Daniel
+  event-place: Cambridge, U.K.
+  issued:
+    - year: 2021
+      month: 4
+      day: 30
+  language: en
+  page: 339–358
+  publisher: Open Book Publishers
+  publisher-place: Cambridge, U.K.
+  source: www.openbookpublishers.com
+  title: >-
+    The Rabbinization Tractates and the Propagation of Rabbinic Ideology in the
+    Late Talmudic Period
+  type: chapter
+  URL: https://books.openbookpublishers.com/10.11647/obp.0219.11.pdf
+
+- id: neusnerChaptersFormativeHistory2011
+  abstract: >-
+    "This collection of seven essays draws on work done in 2010. The author
+    takes up several topics in the systemic analysis of Judaisms and deals with
+    comparisons of Judaisms. The papers include two commentaries on the current
+    state of the academic study of Judaism. The reason for periodically
+    collecting and publishing essays and reviews is to give them a second life,
+    after they have served as lectures or as summaries of monographs or as
+    free-standing articles or as expositions of Judaism in collections of
+    comparative religions. This re-presentation serves a readership to whom the
+    initial presentation in lectures or specialized journals or short-run
+    monographs is inaccessible. Some of the essays furthermore provide a précis,
+    for colleagues in kindred fields, of fully worked out
+    monographs"--Publisher's description, back cover
+  accessed:
+    - year: 2022
+      month: 11
+      day: 25
+  author:
+    - family: Neusner
+      given: Jacob
+  citation-key: neusnerChaptersFormativeHistory2011
+  collection-title: Studies in Judaism
+  event-place: Lanham, Md.
+  ISBN: 978-0-7618-5591-0
+  issued:
+    - year: 2011
+  language: eng
+  note: 'OCLC: 742512201'
+  number-of-pages: '109'
+  publisher: University Press of America
+  publisher-place: Lanham, Md.
+  source: Open WorldCat
+  title: >-
+    Chapters in the formative history of Judaism: sixth series : more essays on
+    the history, literature, and theology of Judaism
+  title-short: Chapters in the formative history of Judaism
+  type: book
+  URL: https://www.loc.gov/catdir/enhancements/fy1612/2011929054-t.html
+
+- id: neusnerShortHistoryJudaism1992
+  author:
+    - family: Neusner
+      given: Jacob
+  citation-key: neusnerShortHistoryJudaism1992
+  event-place: Minneapolis
+  ISBN: 978-0-8006-2552-8
+  issued:
+    - year: 1992
+  language: eng
+  note: 'OCLC: 25412254'
+  number-of-pages: '235'
+  publisher: Fortress Press
+  publisher-place: Minneapolis
+  source: Open WorldCat
+  title: 'A short history of Judaism: three meals, three epochs'
+  title-short: A short history of Judaism
+  type: book
+
+- id: nicklasPartingWaysProbleme2018
+  abstract: >-
+    The triad of Jews, Gentiles and Christians seems clearly arranged in the
+    religious
+     world of the Roman Empire. However, a closer look shows that this is too simple a
+     model in that it neither does justice to the diverse descriptions of these groups
+     or those of others, nor to their respective concepts of identity or the varying mechanisms
+     of inclusions and exclusions. This volume illustrates this by way of interdisciplinary
+     individual studies on Asia Minor, but also through conceptional considerations. In
+     summary, the editors offer new terminology suggestions
+  author:
+    - family: Nicklas
+      given: Tobias
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2018-68403
+  citation-key: nicklasPartingWaysProbleme2018
+  collection-number: '400'
+  collection-title: Wissenschaftliche Untersuchungen zum Neuen Testament
+  container-title: >-
+    Juden, Christen, Heiden? Religiöse Inklusion und Exklusion in Kleinasien bis
+    Decius
+  editor:
+    - family: Alkier
+      given: Stefan
+    - family: Leppin
+      given: Hartmut
+  event-place: Tübingen
+  ISBN: 978-3-16-153706-6
+  issued:
+    - year: 2018
+  language: de
+  note: >-
+    ill. 24 cm. Textes issus d'un congrès. 15 contributions en allemand et 2 en
+    anglais. Bibliogr. en fin de contributions.
+  number-of-volumes: '1'
+  page: 21-42
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: Parting of the Ways? Probleme eines Konzepts
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.mohrsiebeck.com%2Fbuch%2Fjuden-heiden-christen-9783161550294
+
+- id: PageTalmud
+  accessed:
+    - year: 2023
+      month: 4
+      day: 6
+  citation-key: PageTalmud
+  title: A Page of Talmud
+  type: webpage
+  URL: https://people.ucalgary.ca/~elsegal/TalmudPage.html#Page
+
+- id: papaconstantinouConversionLateAntiquity2016
+  abstract: >-
+    The papers in this volume were presented at a Mellon-Sawyer Seminar held at
+    the University of Oxford in 2009-2010, which sought to investigate side by
+    side the two important movements of conversion that frame late antiquity: to
+    Christianity at its start, and to Islam at the other end. Challenging the
+    opposition between the two stereotypes of Islamic conversion as an
+    intrinsically violent process, and Christian conversion as a fundamentally
+    spiritual one, the papers seek to isolate the behaviours and circumstances
+    that made conversion both such a common and such a contested phenomenon. The
+    spread of Buddhism in Asia in broadly the same period serves as an external
+    comparator that was not caught in the net of the Abrahamic religions. The
+    volume is organised around several themes, reflecting the concerns of the
+    initial project with the articulation between norm and practice, the role of
+    authorities and institutions, and the social and individual fluidity on the
+    ground
+  citation-key: papaconstantinouConversionLateAntiquity2016
+  editor:
+    - family: Papaconstantinou
+      given: Arietta
+    - family: McLynn
+      given: Neil
+    - family: Schwartz
+      given: Daniel Louis
+  event-place: London
+  ISBN: 978-1-4094-5738-1
+  issued:
+    - year: 2016
+  language: eng
+  note: 'OCLC: 957529952'
+  number-of-pages: '398'
+  publisher: Routledge
+  publisher-place: London
+  source: Open WorldCat
+  title: 'Conversion in late antiquity: Christianity, Islam, and beyond'
+  title-short: Conversion in late antiquity
+  type: book
+
+- id: pearsonDryBonesJudean1998
+  accessed:
+    - year: 2023
+      month: 4
+      day: 10
+  author:
+    - family: Pearson
+      given: Brook W.R.
+  citation-key: pearsonDryBonesJudean1998
+  container-title: >-
+    Journal for the Study of Judaism in the Persian, Hellenistic, and Roman
+    Period
+  ISSN: 0047-2212
+  issue: '2'
+  issued:
+    - year: 1998
+  page: 192-201
+  publisher: Brill
+  source: JSTOR
+  title: >-
+    Dry Bones in the Judean Desert: The Messiah of Ephraim, Ezekiel 37, and the
+    Post-Revolutionary Followers of Bar Kokhba
+  title-short: Dry Bones in the Judean Desert
+  type: article-journal
+  URL: https://www-jstor-org.proxy.ub.uni-frankfurt.de/stable/24668488
+  volume: '29'
+
+- id: polliackMedievalKaraism2004
+  abstract: >-
+    Karaism is best defined as a Jewish religious movement of a scripturalist
+    and messianic nature, which crystallized in the second half of the ninth
+    century in the areas of Persia-Iraq and Palestine. This article highlights
+    new developments and breakthroughs in research, with specific emphasis on
+    the state of manuscript sources, and the fields of Karaite history and
+    hermeneutics. It also attempts to redefine the major impetus behind the
+    Karaite movement. It concludes by reviewing the issues that have been raised
+    and outlines the major paradigmatic shift in the current understanding of
+    Karaism. Two separate modes of explanation have traditionally been pursued
+    in the light of comparative religious phenomena. One identifies the major
+    motivation underlying Karaism as intrinsic to Judaism, drawn from earlier
+    scripturalist models, and the other identifies it as external to Judaism,
+    borrowed or grafted onto it from heterodox Islamic models.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 3
+  author:
+    - family: Polliack
+      given: Meira
+  citation-key: polliackMedievalKaraism2004
+  container-title: The Oxford Handbook of Jewish Studies
+  DOI: 10.1093/oxfordhb/9780199280322.013.0012
+  editor:
+    - family: Goodman
+      given: Martin
+  ISBN: 978-0-19-928032-2
+  issued:
+    - year: 2004
+      month: 12
+      day: 16
+  page: 295–326
+  publisher: Oxford University Press
+  source: Silverchair
+  title: Medieval Karaism
+  type: chapter
+  URL: >-
+    https://doi-org.proxy.ub.uni-frankfurt.de/10.1093/oxfordhb/9780199280322.013.0012
+
+- id: rebillardGroupIdentityReligious2015
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2016-171081
+  citation-key: rebillardGroupIdentityReligious2015
+  collection-title: CUA studies in early Christianity
+  editor:
+    - family: Rebillard
+      given: Éric
+    - family: Rüpke
+      given: Jörg
+  event-place: Washington, D.C
+  ISBN: 978-0-8132-2743-6
+  issued:
+    - year: 2015
+  language: eng
+  note: 24 cm. Includes bibliographical references and index.
+  number-of-volumes: '1'
+  publisher: the Catholic University of America Press
+  publisher-place: Washington, D.C
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: Group identity and religious individuality in late antiquity
+  type: book
+
+- id: reedIntroductionTraditionalModels2003
+  author:
+    - family: Reed
+      given: Annette Yoshiko
+    - family: Becker
+      given: Adam H.
+  call-number: 13.219.31
+  citation-key: reedIntroductionTraditionalModels2003
+  collection-number: '95'
+  collection-title: Texts and studies in ancient Judaism
+  container-title: The ways that never parted
+  editor:
+    - family: Becker
+      given: Adam H.
+    - family: Reed
+      given: Annette Yoshiko
+  event-place: Tübingen
+  ISBN: 978-3-16-147966-3
+  issued:
+    - year: 2003
+  language: en
+  page: 1-34
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: UBFFM ZB
+  title: 'Introduction: Traditional Models and New Directions'
+  type: chapter
+
+- id: reedStudiesPostBiblicalJudaism
+  author:
+    - family: Reed
+      given: Annette Y
+  citation-key: reedStudiesPostBiblicalJudaism
+  language: en
+  page: '2'
+  source: Zotero
+  title: 'Studies in Post-Biblical Judaism: History and Literature of Rabbinic Judaism'
+  type: article-journal
+
+- id: rosen-zviOralityNarrativeRhetoric2008
+  abstract: >-
+    The appearance in recent years of an impressive series of books, articles,
+    and mainly dissertations on various aspects of the Mishnah collectively
+    signifies something greater than the sum of its parts. These works herald
+    the emergence of a new wave of Mishnah research. While differing
+    significantly in their themes and methods, all the works discussed here
+    share some basic methodological assumptions that are not shared by more
+    “traditional” studies. Among these are a holistic attitude to the Mishnah as
+    a composition; interest in questions of variegation of genre and style
+    (narratives, rituals, lists, etc.); sensitivity to literary devices and
+    techniques; and the use of new interpretive paradigms from rhetoric,
+    cultural, and performative studies.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 10
+  author:
+    - family: Rosen-Zvi
+      given: Ishay
+  citation-key: rosen-zviOralityNarrativeRhetoric2008
+  container-title: AJS Review
+  DOI: 10.1017/S036400940800010X
+  ISSN: 1475-4541, 0364-0094
+  issue: '2'
+  issued:
+    - year: 2008
+      month: 11
+  language: en
+  page: 235-249
+  publisher: Cambridge University Press
+  source: Cambridge University Press
+  title: 'Orality, Narrative, Rhetoric: New Directions in Mishnah Research'
+  title-short: Orality, Narrative, Rhetoric
+  type: article-journal
+  URL: >-
+    https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/journals/ajs-review/article/orality-narrative-rhetoric-new-directions-in-mishnah-research/6C778E436B824F30C5857DA7F0A044C1
+  volume: '32'
+
+- id: rosen-zviPaulInventionGentiles2015
+  abstract: >-
+    This paper studies the birth of the concept of the gentile (goy). We begin
+    by presenting an outline of a genealogy of “goy,” as a word and a concept,
+    from the Bible to rabbinic literature, and then focus on one chapter in this
+    genealogy: the meaning and use of ethnê in Paul's epistles. We claim that
+    Paul takes a crucial part in the emergence of the goy in its new,
+    non-ethnic, privatized and generalized sense. In contrast to the scholarly
+    consensus, according to which Paul's simply borrows his binary distinction
+    between Jews and ethnê from an established Jewish tradition, we show that no
+    such tradition existed, and that Paul in fact plays a key role in forming
+    this new meaning of ethnê /goyim and in consolidating the binary division
+    between the Jews and their others. The paper reconstructs the discursive
+    conditions and form of reasoning underlying Paul's novel rendering of ethnê
+    as generalized-individualized others. This calls for a thorough revision of
+    the recent surge of interest in the teaching of Paul by historians,
+    political-theologians and philosophers who all presuppose the Jew-Gentile
+    division as a given.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 10
+  author:
+    - family: Rosen-Zvi
+      given: Ishay
+    - family: Ophir
+      given: Adi
+  citation-key: rosen-zviPaulInventionGentiles2015
+  container-title: Jewish Quarterly Review
+  DOI: 10.1353/jqr.2015.0001
+  ISSN: 1553-0604
+  issue: '1'
+  issued:
+    - year: 2015
+  page: 1-41
+  publisher: University of Pennsylvania Press
+  source: Project MUSE
+  title: Paul and the Invention of the Gentiles
+  type: article-journal
+  URL: https://muse-jhu-edu.proxy.ub.uni-frankfurt.de/pub/56/article/573880
+  volume: '105'
+
+- id: rustowGaonGaonate2010
+  accessed:
+    - year: 2023
+      month: 4
+      day: 10
+  author:
+    - family: Rustow
+      given: Marina
+  citation-key: rustowGaonGaonate2010
+  container-title: Encyclopedia of Jews in the Islamic World
+  editor:
+    - family: Stillman
+      given: Norman A.
+  event-place: Leiden
+  issued:
+    - year: 2010
+      month: 10
+      day: 1
+  language: en
+  publisher: Brill
+  publisher-place: Leiden
+  source: referenceworks-brillonline-com.proxy.ub.uni-frankfurt.de
+  title: Gaon and Gaonate
+  type: chapter
+  URL: >-
+    http://dx.doi.org.proxy.ub.uni-frankfurt.de/10.1163/1878-9781_ejiw_COM_0008280
+
+- id: salvesenConvergenceWaysJudaizing2003
+  author:
+    - family: Salvesen
+      given: Alison
+  call-number: 13.219.31
+  citation-key: salvesenConvergenceWaysJudaizing2003
+  collection-number: '95'
+  collection-title: Texts and studies in ancient Judaism
+  container-title: The ways that never parted
+  editor:
+    - family: Becker
+      given: Adam H.
+    - family: Reed
+      given: Annette Yoshiko
+  event-place: Tübingen
+  ISBN: 978-3-16-147966-3
+  issued:
+    - year: 2003
+  language: en
+  page: 233-258
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: UBFFM ZB
+  title: >-
+    A convergence of the ways? The Judaizing of Christian scripture by Origen
+    and Jerome
+  type: chapter
+
+- id: schaeferGeschichteJudenAntike2010
+  accessed:
+    - year: 2022
+      month: 11
+      day: 25
+  author:
+    - family: Schäfer
+      given: Peter
+  citation-key: schaeferGeschichteJudenAntike2010
+  collection-title: UTB
+  edition: '2'
+  event-place: Tübingen
+  ISBN: 978-3-8252-3366-2
+  issued:
+    - year: 2010
+  language: de
+  note: 'OCLC: 682105829'
+  number-of-pages: '316'
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: Open WorldCat
+  title: >-
+    Geschichte der Juden in der Antike. Die Juden Palästinas von Alexander dem
+    Großen bis zur arabischen Eroberung
+  type: book
+  URL: https://d-nb.info/99929489X/04
+
+- id: schaeferJesusImTalmud2017
+  abstract: >-
+    English summary: This is a thorough investigation of the passages about
+    Jesus in the rabbinic literature, mainly in the Babylonian Talmud. In his
+    lucid and accessible book, Peter Schafer examines how the rabbis read and
+    used the New Testament to assert Judaism's superiority over Christianity.
+    The Talmudic texts focus on the virgin birth of Jesus, his behavior as a bad
+    and frivolous disciple, his teachings, the healing capacities Jesus and his
+    disciples possessed, the execution of Jesus and his disciples, and finally
+    his punishment forever in hell. The center of this critique of Jesus and his
+    fate was Babylonia under Sassanian rule, quite in contrast to Palestinian
+    Judaism, which was increasingly threatened by the dominant power of
+    Christianity. German description: In seinem neuesten Buch [Jesus im Talmud]
+    hat Schafer sich nicht nur als ein grossartiger Erforscher antiker und
+    mittelalterlicher judischer Texte erwiesen - das wurde bereits zur Genuge
+    demonstriert -, sondern auch als ein talentierter Autor, aus dessen Handen
+    der Text fliesst wie das Wasser, mit dem die Rabbinen die Torah verglichen
+    haben.Galit Hasan-Rokem in Jewish Quarterly Review 99 (2009), S. 114Schafers
+    faszinierende Studie demonstriert meisterhaft, dass der babylonische Talmud
+    auf christliche Behauptungen uber Jesus von Nazareth antwortet, [...] dass
+    die Uberlieferungen der babylonischen Rabbinen nicht die verqueren
+    Phantasien bornierter Rabbinen [...] sind, sondern faszinierende
+    Rohdiamanten, kurze und oft brutale Meisterstucke, die historische Lektionen
+    von entscheidender Bedeutung mitzuteilen haben.Richard Kalmin in Jewish
+    Quarterly Review 99 (2009), S. 112Nicht zuletzt mit der Klarheit in der
+    Argumentation lost das Buch [a] den Anspruch Schafers, ein
+    allgemeinverstandliches Werk vorzulegen, uberzeugend ein.S.O. in Herder
+    Korrespondenz 62 (2008), S. 269Zudem ist sein Werk - gerade in einer Zeit
+    aufkommenden religiosen Fundamentalismus - auch fur interessierte Laien mit
+    Gewinn zu lesen, bietet es doch Einblicke in die Auseinandersetzungen von
+    Spatantike und Fruhmittelalter, die historisch einzuordnen Aufgabe unserer
+    Zeit ist, damit ein angemessenes Nebeneinander der Religionen erreicht
+    werden kann.Joachim Jeska in Biblische Zeitschrift 52 (2008), S. 297-298
+  author:
+    - family: Schäfer
+      given: Peter
+  call-number: 90.852.37
+  citation-key: schaeferJesusImTalmud2017
+  edition: 3., erneut durchgesehene Auflage
+  event-place: Tübingen
+  ISBN: 978-3-16-155531-2 3-16-155531-7
+  issued:
+    - year: 2017
+  language: de
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: UBFFM ZB
+  title: Jesus im Talmud
+  translator:
+    - family: Schäfer
+      given: Barbara
+  type: book
+
+- id: schaferBarKokhbaAufstandStudienZweiten1981
+  author:
+    - family: Schäfer
+      given: Peter
+  call-number: 21/NY 4300 S294 available IG Farben-Haus, Q6, 5. OG, Raum 5.611
+  citation-key: schaferBarKokhbaAufstandStudienZweiten1981
+  collection-title: Texte und Studien zum antiken Judentum
+  ISBN: 978-3-16-144122-6
+  issued:
+    - year: 1981
+  publisher: Mohr
+  source: UBFFM BzG
+  title: 'Der Bar-Kokhba-Aufstand : Studien zum zweiten jüdischen Krieg gegen Rom'
+  title-short: Der Bar-Kokhba-Aufstand
+  type: book
+
+- id: schaferJesusTalmud2007
+  abstract: >-
+    Scattered throughout the Talmud, the founding document of rabbinic Judaism
+    in late antiquity, can be found quite a few references to Jesus--and they're
+    not flattering. In this lucid, richly detailed, and accessible book, Peter
+    Schafer examines how the rabbis of the Talmud read, understood, and used the
+    New Testament Jesus narrative to assert, ultimately, Judaism's superiority
+    over Christianity. The Talmudic stories make fun of Jesus' birth from a
+    virgin, fervently contest his claim to be the Messiah and Son of God, and
+    maintain that he was rightfully executed as a blasphemer and idolater. They
+    subvert the Christian idea of Jesus' resurrection and insist he got the
+    punishment he deserved in hell--and that a similar fate awaits his
+    followers. Schafer contends that these stories betray a remarkable
+    familiarity with the Gospels--especially Matthew and John--and represent a
+    deliberate and sophisticated anti-Christian polemic that parodies the New
+    Testament narratives. He carefully distinguishes between Babylonian and
+    Palestinian sources, arguing that the rabbis' proud and self-confident
+    countermessage to that of the evangelists was possible only in the unique
+    historical setting of Persian Babylonia, in a Jewish community that lived in
+    relative freedom. The same could not be said of Roman and Byzantine
+    Palestine, where the Christians aggressively consolidated their political
+    power and the Jews therefore suffered. A departure from past scholarship,
+    which has played down the stories as unreliable distortions of the
+    historical Jesus, "Jesus in the Talmud" posits a much more deliberate agenda
+    behind these narratives.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 6
+  author:
+    - family: Schäfer
+      given: Peter
+  citation-key: schaferJesusTalmud2007
+  event-place: Princeton
+  ISBN: 978-1-4008-2761-9
+  issued:
+    - year: 2007
+  publisher: Princeton University Press
+  publisher-place: Princeton
+  source: ProQuest Ebook Central
+  title: Jesus in the Talmud
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D445541
+
+- id: schaferJesusTalmudCh2007
+  abstract: >-
+    Scattered throughout the Talmud, the founding document of rabbinic Judaism
+    in late antiquity, can be found quite a few references to Jesus--and they're
+    not flattering. In this lucid, richly detailed, and accessible book, Peter
+    Schafer examines how the rabbis of the Talmud read, understood, and used the
+    New Testament Jesus narrative to assert, ultimately, Judaism's superiority
+    over Christianity. The Talmudic stories make fun of Jesus' birth from a
+    virgin, fervently contest his claim to be the Messiah and Son of God, and
+    maintain that he was rightfully executed as a blasphemer and idolater. They
+    subvert the Christian idea of Jesus' resurrection and insist he got the
+    punishment he deserved in hell--and that a similar fate awaits his
+    followers. Schafer contends that these stories betray a remarkable
+    familiarity with the Gospels--especially Matthew and John--and represent a
+    deliberate and sophisticated anti-Christian polemic that parodies the New
+    Testament narratives. He carefully distinguishes between Babylonian and
+    Palestinian sources, arguing that the rabbis' proud and self-confident
+    countermessage to that of the evangelists was possible only in the unique
+    historical setting of Persian Babylonia, in a Jewish community that lived in
+    relative freedom. The same could not be said of Roman and Byzantine
+    Palestine, where the Christians aggressively consolidated their political
+    power and the Jews therefore suffered. A departure from past scholarship,
+    which has played down the stories as unreliable distortions of the
+    historical Jesus, "Jesus in the Talmud" posits a much more deliberate agenda
+    behind these narratives.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 6
+  author:
+    - family: Schäfer
+      given: Peter
+  citation-key: schaferJesusTalmudCh2007
+  container-title: Jesus in the Talmud
+  event-place: Princeton
+  ISBN: 978-1-4008-2761-9
+  issued:
+    - year: 2007
+  page: 79-102
+  publisher: Princeton University Press
+  publisher-place: Princeton
+  source: ProQuest Ebook Central
+  title: Jesus in the Talmud (ch. 9)
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D445541
+
+- id: schaferTalmudYerushalmiGraecoRoman1997
+  citation-key: schaferTalmudYerushalmiGraecoRoman1997
+  collection-number: 71, 79, 93
+  collection-title: Texts and Studies in Ancient Judaism
+  editor:
+    - family: Schäfer
+      given: Peter
+  event-place: Tübingen
+  issued:
+    - year: 1997
+    - year: 2003
+  note: >-
+    Context Object:
+    url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fvufind.svn.sourceforge.net%3Agenerator&rft.title=The+Talmud+Yerushalmi+and+Graeco-Roman+culture&rft.date=1998&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&rft.genre=book&rft.btitle=The+Talmud+Yerushalmi+and+Graeco-Roman+culture&rft.series=The+Talmud+Yerushalmi+and+Graeco-Roman+culture&rft.au=&rft.pub=Mohr+Siebeck&rft.isbn=
+  number-of-volumes: '3'
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  title: The Talmud Yerushalmi and Graeco-Roman culture
+  type: book
+
+- id: schallerJudaistikUndNeutestamentliche2008
+  call-number: BM562 .J85 2008
+  citation-key: schallerJudaistikUndNeutestamentliche2008
+  collection-number: Bd. 226
+  collection-title: Forschungen zur Religion und Literatur des Alten und Neuen Testaments
+  editor:
+    - family: Schaller
+      given: Berndt
+    - family: Doering
+      given: Lutz
+    - family: Waubke
+      given: Hans-Günther
+    - family: Wilk
+      given: Florian
+  event-place: Göttingen
+  ISBN: 978-3-525-53090-0
+  issued:
+    - year: 2008
+  language: ger eng
+  note: 'OCLC: ocn232963931'
+  number-of-pages: '416'
+  publisher: Vandenhoeck & Ruprecht
+  publisher-place: Göttingen
+  source: Library of Congress ISBN
+  title: >-
+    Judaistik und neutestamentliche Wissenschaft: Standorte, Grenzen,
+    Beziehungen
+  title-short: Judaistik und neutestamentliche Wissenschaft
+  type: book
+
+- id: schiffmanTextsTraditionsSource1998
+  abstract: >-
+    "An indispensible companion text, Texts and Traditions includes the
+    essential documents of the various religious trends of the Second Temple and
+    Rabbinic periods as well as Josephus, Greek and Aramaic inscriptions,
+    classical historians and talmudic sources." --Book Jacket
+  author:
+    - family: Schiffman
+      given: Lawrence H.
+  citation-key: schiffmanTextsTraditionsSource1998
+  event-place: Hoboken, NJ
+  ISBN: 978-0-88125-434-1
+  issued:
+    - year: 1998
+  language: eng
+  note: 'OCLC: 37392934'
+  number-of-pages: '777'
+  publisher: KTAV Pub. House
+  publisher-place: Hoboken, NJ
+  source: Open WorldCat
+  title: >-
+    Texts and traditions: A source reader for the study of Second Temple and
+    rabbinic Judaism
+  title-short: Texts and traditions
+  type: book
+
+- id: schiffmanTextTraditionHistory1991
+  author:
+    - family: Schiffman
+      given: Lawrence H.
+  citation-key: schiffmanTextTraditionHistory1991
+  ISBN: 978-0-88125-371-9
+  issued:
+    - year: 1991
+  publisher: Ktav Publ.
+  title: 'From text to tradition: A history of Second Temple and Rabbinic Judaism'
+  title-short: From text to tradition
+  type: book
+
+- id: schwartzHistoriographyJewsTalmudic2004
+  abstract: >-
+    This article presents a narrative history of the Jews between the
+    destruction of the Second Temple (70 ce) and the Arab conquest of Palestine
+    (c.640 ce). After the destruction, Palestine was made into a standard Roman
+    province in a way which at least curtailed the Jews' traditional autonomy.
+    Nevertheless, the Jews rebelled again, with disastrous results. The Diaspora
+    Revolt (115–17 ce) seems to have ended in the decimation or destruction of
+    the Jewish settlements in Egypt, Libya, and several other places, while the
+    Bar Kokhba Revolt (132–5) brought an end to the Jews' hopes for the
+    restoration of Jerusalem and the Temple and, more tangibly, to Jewish
+    settlement in the district of Judaea. The historiography of the past sixty
+    years on the Jews in the ‘Talmud period’ can be divided into two very broad
+    tendencies, which may be designated Israeli and non-Israeli.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 3
+  author:
+    - family: Schwartz
+      given: Seth
+  citation-key: schwartzHistoriographyJewsTalmudic2004
+  container-title: The Oxford Handbook of Jewish Studies
+  DOI: 10.1093/oxfordhb/9780199280322.013.0005
+  editor:
+    - family: Goodman
+      given: Martin
+  ISBN: 978-0-19-928032-2
+  issued:
+    - year: 2004
+      month: 12
+      day: 16
+  publisher: Oxford University Press
+  source: Silverchair
+  title: Historiography on the Jews in the ‘Talmudic Period’ (70–640 ce)
+  type: chapter
+  URL: >-
+    https://academic-oup-com.proxy.ub.uni-frankfurt.de/edited-volume/38625/chapter/335224773
+
+- id: schwartzPoliticalGeographyRabbinic2007
+  accessed:
+    - year: 2023
+      month: 4
+      day: 4
+  author:
+    - family: Schwartz
+      given: Seth
+  citation-key: schwartzPoliticalGeographyRabbinic2007
+  container-title: The Cambridge Companion to the Talmud and Rabbinic Literature
+  DOI: 10.1017/CCOL0521843901.005
+  edition: '1'
+  editor:
+    - family: Fonrobert
+      given: Charlotte Elisheva
+    - family: Jaffee
+      given: Martin S.
+  ISBN: 978-0-521-84390-4 978-0-521-60508-3 978-1-139-00151-9
+  issued:
+    - year: 2007
+      month: 5
+      day: 28
+  language: en
+  page: 75-96
+  publisher: Cambridge University Press
+  source: DOI.org (Crossref)
+  title: The Political Geography of Rabbinic Texts
+  type: chapter
+  URL: >-
+    https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/books/cambridge-companion-to-the-talmud-and-rabbinic-literature/political-geography-of-rabbinic-texts/BB835D094EFADC8F100B061D8A7B7C6A
+
+- id: sheinfeldBarKokhbaLeadership2019
+  abstract: >-
+    Most of what we know about Bar Kokhba derives from rabbinic and patristic
+    literature, which portrays him as a failed messiah figure. However, the
+    letters and coins found from the revolt itself suggest that Bar Kokhba did
+    not claim to be a messiah figure, but instead was an authoritarian ruler who
+    attempted to control the religious, economic, and military matters of his
+    followers.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 10
+  author:
+    - family: Sheinfeld
+      given: Shayna
+  citation-key: sheinfeldBarKokhbaLeadership2019
+  container-title: Religion Compass
+  DOI: 10.1111/rec3.12320
+  ISSN: 1749-8171
+  issue: '7'
+  issued:
+    - year: 2019
+  language: en
+  page: e12320
+  source: Wiley Online Library
+  title: Bar Kokhba and leadership as seen through the revolt
+  type: article-journal
+  URL: >-
+    https://compass-onlinelibrary-wiley-com.proxy.ub.uni-frankfurt.de/doi/full/10.1111/rec3.12320
+  volume: '13'
+
+- id: shemeshDidRabbisConsider2017
+  accessed:
+    - year: 2017
+      month: 10
+      day: 24
+  author:
+    - family: Shemesh
+      given: Aharon
+  citation-key: shemeshDidRabbisConsider2017
+  container-title: 'Talmudic Transgressions: Engaging the Work of Daniel Boyarin'
+  editor:
+    - family: Fonrobert
+      given: Charlotte Elisheva
+    - family: Rosen-Zvi
+      given: Ishay
+    - family: Shemesh
+      given: Aharon
+    - family: Vidas
+      given: Moulie
+  event-place: Leiden
+  issued:
+    - year: 2017
+  page: 107-122
+  publisher: Brill
+  publisher-place: Leiden
+  source: booksandjournals.brillonline.com.0082b2jt1093.emedia1.bsb-muenchen.de
+  title: Did the Rabbis Consider Nazirhood an Ascetic Practice?
+  type: chapter
+  URL: >-
+    http://booksandjournals.brillonline.com.0082b2jt1093.emedia1.bsb-muenchen.de/content/books/b9789004345331_005
+
+- id: solomonEinleitungUndKapitel2022
+  author:
+    - family: Solomon
+      given: Norman
+  citation-key: solomonEinleitungUndKapitel2022
+  container-title: 'Das Judentum: Eine kleine Einführung'
+  event-place: Ditzingen
+  ISBN: 978-3-15-014268-4
+  issued:
+    - year: 2022
+  language: de
+  page: 9-28
+  publisher: Reclam
+  publisher-place: Ditzingen
+  source: COinS
+  title: Einleitung und Kapitel 1
+  translator:
+    - family: Schöller
+      given: Ekkehard
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/23903600655/CourseNode/93668888136198/02+-+Solomon+-+2022+-+Einleitung+und+Kapitel+1.pdf
+
+- id: solomonJudaismVeryShort2014
+  abstract: >-
+    Outlines the basics of practical Judaism and considers how Judaism has
+    responded to, and dealt with, a number of key issues and debates, including
+    the impact of the Holocaust and the establishment of the State of Israel
+  accessed:
+    - year: 2022
+      month: 11
+      day: 25
+  author:
+    - family: Solomon
+      given: Norman
+  citation-key: solomonJudaismVeryShort2014
+  collection-title: Very short introductions
+  edition: '2'
+  event-place: New York
+  ISBN: 978-0-19-968735-0
+  issued:
+    - year: 2014
+  language: eng
+  note: 'OCLC: 899738411'
+  number-of-pages: '151'
+  publisher: Oxford University Press
+  publisher-place: New York
+  source: Open WorldCat
+  title: 'Judaism: A very short introduction'
+  title-short: Judaism
+  type: book
+
+- id: solomonJudentumKleineEinfuehrung2022
+  abstract: >-
+    Das Judentum blickt zurück auf eine Tradition von mehr als 3000 Jahren.
+    Diese pointierte Einführung widmet sich vor allem dem jüdischen Glauben,
+    nimmt aber auch die wesentlichen kulturellen Aspekte des Judentums in den
+    Blick. Es geht zudem um die Stellung der Juden in der Welt von gestern und
+    heute und ihr Verhältnis zum Christentum. Nicht zuletzt bildet das Schicksal
+    der Juden im 20. Jahrhundert eines der zentralen Themen dieses Buches.
+  author:
+    - family: Solomon
+      given: Norman
+  citation-key: solomonJudentumKleineEinfuehrung2022
+  event-place: Ditzingen
+  ISBN: 978-3-15-014268-4
+  issued:
+    - year: 2022
+  language: de
+  number-of-pages: 196 Seiten
+  publisher: Reclam
+  publisher-place: Ditzingen
+  source: COinS
+  title: 'Das Judentum: Eine kleine Einführung'
+  title-short: Das Judentum
+  translator:
+    - family: Schöller
+      given: Ekkehard
+  type: book
+
+- id: stembergerEinleitungTalmudUnd2011
+  author:
+    - family: Stemberger
+      given: Günter
+  call-number: 80/Es 21 07 b (Judaistik, Freihandbestand 1. OG)
+  citation-key: stembergerEinleitungTalmudUnd2011
+  event-place: München
+  ISBN: 978-3-406-62289-2
+  issued:
+    - year: 2011
+  language: de
+  number-of-pages: '422'
+  publisher: C.H.Beck
+  publisher-place: München
+  source: UBFFM BSKW
+  title: Einleitung in Talmud und Midrasch
+  type: book
+
+- id: stembergerTalmudEinfuehrungTexte1982
+  author:
+    - family: Stemberger
+      given: Günter
+  citation-key: stembergerTalmudEinfuehrungTexte1982
+  event-place: München
+  ISBN: 978-3-406-08354-9
+  issued:
+    - year: 1982
+  language: ger
+  publisher: C. H. Beck
+  publisher-place: München
+  source: BnF ISBN
+  title: 'Der Talmud: Einführung, Texte, Erläuterungen'
+  title-short: Der Tamud
+  type: book
+
+- id: stillmanEncyclopediaJewsIslamic2010
+  accessed:
+    - year: 2023
+      month: 4
+      day: 6
+  citation-key: stillmanEncyclopediaJewsIslamic2010
+  editor:
+    - family: Stillman
+      given: Norman A.
+  event-place: Leiden
+  issued:
+    - year: 2010
+  language: en
+  publisher: Brill
+  publisher-place: Leiden
+  title: Encyclopedia of Jews in the Islamic World
+  type: book
+  URL: >-
+    https://referenceworks-brillonline-com.proxy.ub.uni-frankfurt.de/browse/encyclopedia-of-jews-in-the-islamic-world
+
+- id: stoklbenezraWhoseFastIt2003
+  author:
+    - family: Stökl Ben Ezra
+      given: Daniel
+  call-number: 13.219.31
+  citation-key: stoklbenezraWhoseFastIt2003
+  collection-number: '95'
+  collection-title: Texts and studies in ancient Judaism
+  container-title: The ways that never parted
+  editor:
+    - family: Becker
+      given: Adam H.
+    - family: Reed
+      given: Annette Yoshiko
+  event-place: Tübingen
+  ISBN: 978-3-16-147966-3
+  issued:
+    - year: 2003
+  language: en
+  page: 259-282
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: UBFFM ZB
+  title: Whose fast is it? The Ember Day of September and Yom Kippur
+  type: chapter
+
+- id: stoklbenezraWhoTargetToledot2021
+  accessed:
+    - year: 2023
+      month: 3
+      day: 21
+  author:
+    - family: Stökl Ben Ezra
+      given: Daniel
+  citation-key: stoklbenezraWhoTargetToledot2021
+  collection-title: Cambridge Semitic Languages and Cultures 8
+  container-title: >-
+    Diversity and rabbinization: Jewish texts and societies between 400 and 1000
+    CE
+  DOI: 10.11647/OBP.0219.12
+  editor:
+    - family: McDowell
+      given: Gavin
+    - family: Naiweld
+      given: Ron
+    - family: Stökl Ben Ezra
+      given: Daniel
+  event-place: Cambridge, U.K.
+  issued:
+    - year: 2021
+      month: 4
+      day: 30
+  language: en
+  page: 359–380
+  publisher: Open Book Publishers
+  publisher-place: Cambridge, U.K.
+  source: www.openbookpublishers.com
+  title: Who is the Target of Toledot Yeshu?
+  type: chapter
+  URL: https://books.openbookpublishers.com/10.11647/obp.0219.12.pdf
+
+- id: swartzSocietySelfEarly2021
+  accessed:
+    - year: 2023
+      month: 3
+      day: 21
+  author:
+    - family: Swartz
+      given: Michael D.
+  citation-key: swartzSocietySelfEarly2021
+  collection-title: Cambridge Semitic Languages and Cultures 8
+  container-title: >-
+    Diversity and rabbinization: Jewish texts and societies between 400 and 1000
+    CE
+  DOI: 10.11647/obp.0219.02
+  editor:
+    - family: McDowell
+      given: Gavin
+    - family: Naiweld
+      given: Ron
+    - family: Stökl Ben Ezra
+      given: Daniel
+  event-place: Cambridge, U.K.
+  issued:
+    - year: 2021
+      month: 4
+      day: 30
+  language: en
+  page: 33–66
+  publisher: Open Book Publishers
+  publisher-place: Cambridge, U.K.
+  source: www.openbookpublishers.com
+  title: Society and the Self in Early Piyyut
+  type: chapter
+  URL: https://books.openbookpublishers.com/10.11647/obp.0219.02.pdf
+
+- id: szpiechConversionNarrativeReading2013
+  author:
+    - family: Szpiech
+      given: Ryan
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2013-97565
+  citation-key: szpiechConversionNarrativeReading2013
+  collection-title: The Middle ages series
+  edition: 1st ed
+  event-place: Philadelphia
+  ISBN: 978-0-8122-4471-7
+  issued:
+    - year: 2013
+  language: eng
+  note: 25 cm. Includes bibliographical references and index.
+  number-of-pages: '311'
+  publisher: University of Pennsylvania Press
+  publisher-place: Philadelphia
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: >-
+    Conversion and narrative :  reading and religious authority in Medieval
+    polemic
+  title-short: Conversion and narrative
+  type: book
+
+- id: Tags
+  citation-key: Tags
+  title: Tags
+  type: document
+
+- id: talabardonJudentum2006
+  author:
+    - family: Talabardon
+      given: Susanne (Verfasser)
+  citation-key: talabardonJudentum2006
+  event-place: Grünwald
+  ISBN: 978-3-593-41378-5
+  issued:
+    - year: 2006
+  publisher: Campus
+  publisher-place: Grünwald
+  source: COinS
+  title: Das Judentum
+  type: book
+  URL: >-
+    https://content-select-com.proxy.ub.uni-frankfurt.de/de/portal/media/view/519cc3b3-dbfc-498e-b9e5-290b5dbbeaba?forceauth=1
+
+- id: vanderkamIntroductionEarlyJudaism2003
+  abstract: >-
+    A compelling survey of ancient Jewish history chronicles the history of
+    Judaism from the Babylonian Captivity to the Jewish Revolt. Original.
+  accessed:
+    - year: 2022
+      month: 11
+      day: 25
+  author:
+    - family: VanderKam
+      given: James C.
+  citation-key: vanderkamIntroductionEarlyJudaism2003
+  edition: 2. [Dr.]
+  event-place: Grand Rapids, Mich
+  ISBN: 978-0-8028-4641-9
+  issued:
+    - year: 2003
+  language: eng
+  note: 'OCLC: 255261467'
+  number-of-pages: '234'
+  publisher: Eerdmans
+  publisher-place: Grand Rapids, Mich
+  source: Open WorldCat
+  title: An introduction to early Judaism
+  type: book
+  URL: http://www.gbv.de/dms/bowker/toc/9780802846419.pdf
+
+- id: vanrompayJudaismSyriacContacts2018
+  author:
+    - family: Van Rompay
+      given: Lucas
+  citation-key: vanrompayJudaismSyriacContacts2018
+  container-title: Gorgias Encyclopedic Dictionary of the Syriac Heritage
+  edition: online
+  editor:
+    - family: Brock
+      given: Sebastian P.
+    - family: Butts
+      given: Aaron M.
+    - family: Kiraz
+      given: George A.
+    - family: Van Rompay
+      given: Lucas
+  event-place: Piscataway, N.J.
+  issued:
+    - year: 2018
+  language: en
+  publisher: Beth Mardutho
+  publisher-place: Piscataway, N.J.
+  title: Judaism, Syriac contacts with
+  type: chapter
+  URL: https://gedsh.bethmardutho.org/entry/Judaism-Syriac-contacts-with
+
+- id: vogelStreitNichtNur2018
+  abstract: >-
+    The triad of Jews, Gentiles and Christians seems clearly arranged in the
+    religious
+     world of the Roman Empire. However, a closer look shows that this is too simple a
+     model in that it neither does justice to the diverse descriptions of these groups
+     or those of others, nor to their respective concepts of identity or the varying mechanisms
+     of inclusions and exclusions. This volume illustrates this by way of interdisciplinary
+     individual studies on Asia Minor, but also through conceptional considerations. In
+     summary, the editors offer new terminology suggestions
+  author:
+    - family: Vogel
+      given: Manuel
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2018-68403
+  citation-key: vogelStreitNichtNur2018
+  collection-number: '400'
+  collection-title: Wissenschaftliche Untersuchungen zum Neuen Testament
+  container-title: >-
+    Juden, Christen, Heiden? Religiöse Inklusion und Exklusion in Kleinasien bis
+    Decius
+  editor:
+    - family: Alkier
+      given: Stefan
+    - family: Leppin
+      given: Hartmut
+  event-place: Tübingen
+  ISBN: 978-3-16-153706-6
+  issued:
+    - year: 2018
+  language: de
+  note: >-
+    ill. 24 cm. Textes issus d'un congrès. 15 contributions en allemand et 2 en
+    anglais. Bibliogr. en fin de contributions.
+  number-of-volumes: '1'
+  page: 43-70
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: >-
+    Ein Streit nicht nur um Worte: Begriffsgeschichtliche Beobachtungen  zu
+    frühchristlichen Strategien der Exklusion
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.mohrsiebeck.com%2Fbuch%2Fjuden-heiden-christen-9783161550294
+
+- id: wasserstromREL152Introduction
+  author:
+    - family: Wasserstrom
+      given: Steven M
+  citation-key: wasserstromREL152Introduction
+  language: en
+  page: '8'
+  source: Zotero
+  title: 'REL 152: Introduction to Judaism'
+  type: article-journal
+
+- id: YaleUniversityArt
+  abstract: "The archaeological site of Dura-Europos, in\_present-day\_Syria, is a crossroads of ancient cultures. It is perhaps best known for the important\_remains\_unearthed during the excavations in the 1920s and 1930s sponsored by Yale University and the French Academy of Inscriptions and Letters. These\_finds\_included a shrine to the god Mithras, a synagogue whose assembly room walls were covered with painted biblical scenes, and one of the earliest Christian house churches. The\_art\_and artifacts, many\_..."
+  accessed:
+    - year: 2025
+      month: 4
+      day: 30
+  citation-key: YaleUniversityArt
+  language: en
+  title: 'Yale University Art Gallery: Dura-Europos Collection'
+  title-short: Yale University Art Gallery
+  type: webpage
+  URL: https://jstor.org/site/yaleuniversitylibrary/yuag-dura-europos-collection/
 ...
