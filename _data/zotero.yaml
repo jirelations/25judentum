@@ -2519,6 +2519,26 @@ references:
   URL: https://muse-jhu-edu.proxy.ub.uni-frankfurt.de/pub/56/article/573880
   volume: '105'
 
+- id: rosikChurchSynagogue303132019
+  author:
+    - family: Rosik
+      given: Mariusz (Verfasser)
+  citation-key: rosikChurchSynagogue303132019
+  event-place: Wien
+  ISBN: 978-3-631-76005-5
+  issued:
+    date-parts:
+      - - '2019'
+  number-of-pages: 558 Seiten
+  original-date:
+    - year: 2019
+  publisher: Peter Lang
+  publisher-place: Wien
+  source: COinS
+  title: 'Church and synagogue (30-313 AD) : parting of the ways'
+  title-short: Church and synagogue (30-313 AD)
+  type: book
+
 - id: rustowGaonGaonate2010
   accessed:
     - year: 2023
@@ -2652,6 +2672,24 @@ references:
   translator:
     - family: Schäfer
       given: Barbara
+  type: book
+
+- id: schaferAschkenasischeJudentumHerkunft2024
+  author:
+    - family: Schäfer
+      given: Peter (Verfasser)
+  citation-key: schaferAschkenasischeJudentumHerkunft2024
+  edition: 1. Auflage
+  event-place: Ann Arbor, Michigan
+  ISBN: 978-3-406-81248-4
+  issued:
+    - year: 2024
+  number-of-pages: 1 Online-Ressource (593 Seiten)
+  publisher: C.H. Beck
+  publisher-place: Ann Arbor, Michigan
+  source: COinS
+  title: 'Das aschkenasische Judentum : Herkunft, Blüte, Weg nach Osten'
+  title-short: Das aschkenasische Judentum
   type: book
 
 - id: schaferBarKokhbaAufstandStudienZweiten1981
@@ -2849,6 +2887,49 @@ references:
   publisher: Ktav Publ.
   title: 'From text to tradition: A history of Second Temple and Rabbinic Judaism'
   title-short: From text to tradition
+  type: book
+
+- id: schroterJewsChristiansParting2021
+  abstract: >-
+    The present volume is based on a conference held in October 2019 at the
+    Faculty of Theology of Humboldt University Berlin as part of a common
+    project of the Australian Catholic University, the Katholieke Universiteit
+    Leuven and the Humboldt University Berlin. The aim is to discuss the
+    relationships of “Jews” and “Christians” in the first two centuries CE
+    against the background of recent debates which have called into question the
+    image of “parting ways” for a description of the relationships of Judaism
+    and Christianity in antiquity. One objection raised against this metaphor is
+    that it accentuates differences at the expense of commonalities. Another
+    critique is that this image looks from a later perspective at historical
+    developments which can hardly be grasped with such a metaphor. It is more
+    likely that distinctions between Jews, Christians, Jewish Christians,
+    Christian Jews etc. are more blurred than the image of “parting ways”
+    allows. In light of these considerations the contributions in this volume
+    discuss the cogency of the “parting of the ways”-model with a look at
+    prominent early Christian writers and places and suggest more appropriate
+    metaphors to describe the relationships of Jews and Christians in the early
+    period.
+  author:
+    - family: Schröter
+      given: Jens
+    - family: Edsall
+      given: Benjamin A.
+    - family: Verheyden
+      given: Joseph
+  citation-key: schroterJewsChristiansParting2021
+  ISBN: 978-3-11-074224-4
+  issued:
+    - year: 2021
+      month: 8
+      day: 23
+  language: en
+  number-of-pages: '486'
+  publisher: Walter de Gruyter GmbH & Co KG
+  source: Google Books
+  title: >-
+    Jews and Christians – Parting Ways in the First Two Centuries CE?:
+    Reflections on the Gains and Losses of a Model
+  title-short: Jews and Christians – Parting Ways in the First Two Centuries CE?
   type: book
 
 - id: schwartzHistoriographyJewsTalmudic2004
