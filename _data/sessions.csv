@@ -1,87 +1,1379 @@
-﻿blank,session,date,filename,unit,topic,long-topic,concepts,title,pad-slug,image,zotero-tag,zotero-readings,objective,Aufgabe,tags,contents
+﻿blank,session,date,filename,unit,topic,long-topic,concepts,title,pad-slug,image,zotero-tag,zotero-readings,objective,Aufgabe,tags,contents,slide-filename,slide-frontmatter,slide-body1,slide-body2,slide-content
 ,1,24.04,2025-04-24-1.md,Fundamenten,Einführung,"Was bedeutet es, jüdisch zu sein?",,1. Fundamenten: Einführung,1,tallit-boy.jpg,1-Einführung,,"1. Über die persönlichen Ziele des Kurses nachdenken.
 2. Über einige Faktoren jüdischer Identität reflektieren.",,[1],"---
 layout: post
 session: 1
 tags: [1]
 level: overview
----"
-,,01.05,2025-05-01-labor-day.md,Tag der Arbeit (vorlesungsfrei),Tag der Arbeit (vorlesungsfrei),,,. Tag der Arbeit (vorlesungsfrei): Tag der Arbeit (vorlesungsfrei),,,,,,,,
+---",2025-04-24-1-slides.md,"---
+layout: reveal
+title: 'Was bedeutet es, jüdisch zu sein?'
+author: 'Nathan Gibson'
+session: 1
+tags: [1,slides]
+category: slides
+image: tallit-boy.jpg
+parallaxBackgroundImage: 'assets/img/tallit-boy.jpg'
+---
+","# Einführung ins Judentum
+{: .r-fit-text}
+
+### Was bedeutet es, jüdisch zu sein?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+objective
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+1. Über die persönlichen Ziele des Kurses nachdenken.
+2. Über einige Faktoren jüdischer Identität reflektieren.","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+","---
+layout: reveal
+title: 'Was bedeutet es, jüdisch zu sein?'
+author: 'Nathan Gibson'
+session: 1
+tags: [1,slides]
+category: slides
+image: tallit-boy.jpg
+parallaxBackgroundImage: 'assets/img/tallit-boy.jpg'
+---
+# Einführung ins Judentum
+{: .r-fit-text}
+
+### Was bedeutet es, jüdisch zu sein?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+objective
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+1. Über die persönlichen Ziele des Kurses nachdenken.
+2. Über einige Faktoren jüdischer Identität reflektieren.
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+"
+,,01.05,2025-05-01-labor-day.md,Tag der Arbeit (vorlesungsfrei),Tag der Arbeit (vorlesungsfrei),,,. Tag der Arbeit (vorlesungsfrei): Tag der Arbeit (vorlesungsfrei),,,,,,,,,2025-05-01-labor-day-slides.md,"---
+layout: reveal
+title: ''
+author: 'Nathan Gibson'
+session: 
+tags: [,slides]
+category: slides
+image: 
+parallaxBackgroundImage: 'assets/img/'
+---
+","# Einführung ins Judentum
+{: .r-fit-text}
+
+### 
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+1. Über die persönlichen Ziele des Kurses nachdenken.
+2. Über einige Faktoren jüdischer Identität reflektieren.
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Warum verstanden sich Israeliten als ""Gottes Volk""?","---
+layout: reveal
+title: ''
+author: 'Nathan Gibson'
+session: 
+tags: [,slides]
+category: slides
+image: 
+parallaxBackgroundImage: 'assets/img/'
+---
+# Einführung ins Judentum
+{: .r-fit-text}
+
+### 
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+1. Über die persönlichen Ziele des Kurses nachdenken.
+2. Über einige Faktoren jüdischer Identität reflektieren.
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Warum verstanden sich Israeliten als ""Gottes Volk""?"
 ,2,08.05,2025-05-08-2.md,Fundamenten,Thora & Bund,"Warum verstanden sich Israeliten als ""Gottes Volk""?",Schriftlichkeit,2. Fundamenten: Thora & Bund,2,dura-europos-moses-sea.jpg,2-Thora-Bund,solomonEinleitungUndKapitel2022,Kernbegriffe jüdischen Selbstverständnisses auf Basis der Bibel skizzieren.,Eigene Definition aufschreiben: Wer ist jüdisch?,[2],"---
 layout: post
 session: 2
 tags: [2]
 level: overview
----"
-,3,15.05,2025-05-15-3.md,Fundamenten,Tempel & Synagogen,Welche Bedeutung haben die Form und der Ort der Anbetung?,"Heiligkeit, heilige Orte, Rituale",3. Fundamenten: Tempel & Synagogen,3,dura-europos-synagogue-well.jpg,3-Tempel-Synagogen,,Antike israelitische und jüdische Heiligkeitskonzepte in Bezug auf Gebetsorte und Rituale erläutern.,,[3],"---
+---",2025-05-08-2-slides.md,"---
+layout: reveal
+title: 'Warum verstanden sich Israeliten als ""Gottes Volk""?'
+author: 'Nathan Gibson'
+session: 2
+tags: [2,slides]
+category: slides
+image: dura-europos-moses-sea.jpg
+parallaxBackgroundImage: 'assets/img/dura-europos-moses-sea.jpg'
+---
+","# Einführung ins Judentum
+{: .r-fit-text}
+
+### Warum verstanden sich Israeliten als ""Gottes Volk""?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+Kernbegriffe jüdischen Selbstverständnisses auf Basis der Bibel skizzieren.","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Welche Bedeutung haben die Form und der Ort der Anbetung?","---
+layout: reveal
+title: 'Warum verstanden sich Israeliten als ""Gottes Volk""?'
+author: 'Nathan Gibson'
+session: 2
+tags: [2,slides]
+category: slides
+image: dura-europos-moses-sea.jpg
+parallaxBackgroundImage: 'assets/img/dura-europos-moses-sea.jpg'
+---
+# Einführung ins Judentum
+{: .r-fit-text}
+
+### Warum verstanden sich Israeliten als ""Gottes Volk""?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+Kernbegriffe jüdischen Selbstverständnisses auf Basis der Bibel skizzieren.
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Welche Bedeutung haben die Form und der Ort der Anbetung?"
+,3,15.05,2025-05-15-3.md,Fundamenten,Tempel & Synagogen,Welche Bedeutung haben die Form und der Ort der Anbetung?,"Heiligkeit, heilige Orte, Rituale",3. Fundamenten: Tempel & Synagogen,3,dura-europos-synagogue-well.jpg,3-Tempel-Synagogen,cohn-sherbokJudischeGlaubensuberzeugungenUnd2000,Antike israelitische und jüdische Heiligkeitskonzepte in Bezug auf Gebetsorte und Rituale erläutern.,,[3],"---
 layout: post
 session: 3
 tags: [3]
 level: overview
----"
+---",2025-05-15-3-slides.md,"---
+layout: reveal
+title: 'Welche Bedeutung haben die Form und der Ort der Anbetung?'
+author: 'Nathan Gibson'
+session: 3
+tags: [3,slides]
+category: slides
+image: dura-europos-synagogue-well.jpg
+parallaxBackgroundImage: 'assets/img/dura-europos-synagogue-well.jpg'
+---
+","# Einführung ins Judentum
+{: .r-fit-text}
+
+### Welche Bedeutung haben die Form und der Ort der Anbetung?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+Kernbegriffe jüdischen Selbstverständnisses auf Basis der Bibel skizzieren.
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+Antike israelitische und jüdische Heiligkeitskonzepte in Bezug auf Gebetsorte und Rituale erläutern.","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+","---
+layout: reveal
+title: 'Welche Bedeutung haben die Form und der Ort der Anbetung?'
+author: 'Nathan Gibson'
+session: 3
+tags: [3,slides]
+category: slides
+image: dura-europos-synagogue-well.jpg
+parallaxBackgroundImage: 'assets/img/dura-europos-synagogue-well.jpg'
+---
+# Einführung ins Judentum
+{: .r-fit-text}
+
+### Welche Bedeutung haben die Form und der Ort der Anbetung?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+Kernbegriffe jüdischen Selbstverständnisses auf Basis der Bibel skizzieren.
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+Antike israelitische und jüdische Heiligkeitskonzepte in Bezug auf Gebetsorte und Rituale erläutern.
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+"
 ,4,22.05,2025-05-22-4.md,Fundamenten,Exkursion,,"Heiligkeit, heilige Orte",4. Fundamenten: Exkursion,4,menorah-budapest.jpg,4-Exkursion,,,,[4],"---
 layout: post
 session: 4
 tags: [4]
 level: overview
----"
-,,29.05,2025-05-29-ascension.md,Christi Himmelfahrt (vorlesungsfrei),Christi Himmelfahrt (vorlesungsfrei),,,. Christi Himmelfahrt (vorlesungsfrei): Christi Himmelfahrt (vorlesungsfrei),,,,,,,,
+---",2025-05-22-4-slides.md,"---
+layout: reveal
+title: ''
+author: 'Nathan Gibson'
+session: 4
+tags: [4,slides]
+category: slides
+image: menorah-budapest.jpg
+parallaxBackgroundImage: 'assets/img/menorah-budapest.jpg'
+---
+","# Einführung ins Judentum
+{: .r-fit-text}
+
+### 
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+Antike israelitische und jüdische Heiligkeitskonzepte in Bezug auf Gebetsorte und Rituale erläutern.
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+","---
+layout: reveal
+title: ''
+author: 'Nathan Gibson'
+session: 4
+tags: [4,slides]
+category: slides
+image: menorah-budapest.jpg
+parallaxBackgroundImage: 'assets/img/menorah-budapest.jpg'
+---
+# Einführung ins Judentum
+{: .r-fit-text}
+
+### 
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+Antike israelitische und jüdische Heiligkeitskonzepte in Bezug auf Gebetsorte und Rituale erläutern.
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+"
+,,29.05,2025-05-29-ascension.md,Christi Himmelfahrt (vorlesungsfrei),Christi Himmelfahrt (vorlesungsfrei),,,. Christi Himmelfahrt (vorlesungsfrei): Christi Himmelfahrt (vorlesungsfrei),,,,,,,,,2025-05-29-ascension-slides.md,"---
+layout: reveal
+title: ''
+author: 'Nathan Gibson'
+session: 
+tags: [,slides]
+category: slides
+image: 
+parallaxBackgroundImage: 'assets/img/'
+---
+","# Einführung ins Judentum
+{: .r-fit-text}
+
+### 
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie werden die heiligen Schriften ausgelegt (und von wem)?","---
+layout: reveal
+title: ''
+author: 'Nathan Gibson'
+session: 
+tags: [,slides]
+category: slides
+image: 
+parallaxBackgroundImage: 'assets/img/'
+---
+# Einführung ins Judentum
+{: .r-fit-text}
+
+### 
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie werden die heiligen Schriften ausgelegt (und von wem)?"
 ,5,05.06,2025-06-05-5.md,Fundamenten,"Mischna, Talmud & Midrasch",Wie werden die heiligen Schriften ausgelegt (und von wem)?,"Schriftlichkeit, Mündlichkeit, Normativität","5. Fundamenten: Mischna, Talmud & Midrasch",5,mishnah-frankfurt.jpg,"5-Mischna,-Talmud-Midrasch",,Einige jüdische sakrale Texte aufzählen und ihr Zusammenspiel mit mündlichen Praktiken erläutern.,,[5],"---
 layout: post
 session: 5
 tags: [5]
 level: overview
----"
+---",2025-06-05-5-slides.md,"---
+layout: reveal
+title: 'Wie werden die heiligen Schriften ausgelegt (und von wem)?'
+author: 'Nathan Gibson'
+session: 5
+tags: [5,slides]
+category: slides
+image: mishnah-frankfurt.jpg
+parallaxBackgroundImage: 'assets/img/mishnah-frankfurt.jpg'
+---
+","# Einführung ins Judentum
+{: .r-fit-text}
+
+### Wie werden die heiligen Schriften ausgelegt (und von wem)?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+Einige jüdische sakrale Texte aufzählen und ihr Zusammenspiel mit mündlichen Praktiken erläutern.","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie gestaltete sich jüdisches Leben in der Diaspora?","---
+layout: reveal
+title: 'Wie werden die heiligen Schriften ausgelegt (und von wem)?'
+author: 'Nathan Gibson'
+session: 5
+tags: [5,slides]
+category: slides
+image: mishnah-frankfurt.jpg
+parallaxBackgroundImage: 'assets/img/mishnah-frankfurt.jpg'
+---
+# Einführung ins Judentum
+{: .r-fit-text}
+
+### Wie werden die heiligen Schriften ausgelegt (und von wem)?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+Einige jüdische sakrale Texte aufzählen und ihr Zusammenspiel mit mündlichen Praktiken erläutern.
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie gestaltete sich jüdisches Leben in der Diaspora?"
 ,6,12.06,2025-06-12-6.md,Historische Auseinandersetzungen,Sprachen & kulturelle Konvergenzen,Wie gestaltete sich jüdisches Leben in der Diaspora?,Hybridität,6. Historische Auseinandersetzungen: Sprachen & kulturelle Konvergenzen,6,beit-alpha-zodiac.jpg,6-Sprachen-kulturelle-Konvergenzen,,Beispiele für die Folgen des sprachlichen und kulturellen Kontakts mit dem Aramäischen und Griechischen nennen.,,[6],"---
 layout: post
 session: 6
 tags: [6]
 level: overview
----"
-,,19.06,2025-06-19-corpus-christi.md,Fronleichnam (vorlesungsfrei),Fronleichnam (vorlesungsfrei),,,. Fronleichnam (vorlesungsfrei): Fronleichnam (vorlesungsfrei),,,,,,,,
+---",2025-06-12-6-slides.md,"---
+layout: reveal
+title: 'Wie gestaltete sich jüdisches Leben in der Diaspora?'
+author: 'Nathan Gibson'
+session: 6
+tags: [6,slides]
+category: slides
+image: beit-alpha-zodiac.jpg
+parallaxBackgroundImage: 'assets/img/beit-alpha-zodiac.jpg'
+---
+","# Einführung ins Judentum
+{: .r-fit-text}
+
+### Wie gestaltete sich jüdisches Leben in der Diaspora?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+Einige jüdische sakrale Texte aufzählen und ihr Zusammenspiel mit mündlichen Praktiken erläutern.
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+Beispiele für die Folgen des sprachlichen und kulturellen Kontakts mit dem Aramäischen und Griechischen nennen.","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+","---
+layout: reveal
+title: 'Wie gestaltete sich jüdisches Leben in der Diaspora?'
+author: 'Nathan Gibson'
+session: 6
+tags: [6,slides]
+category: slides
+image: beit-alpha-zodiac.jpg
+parallaxBackgroundImage: 'assets/img/beit-alpha-zodiac.jpg'
+---
+# Einführung ins Judentum
+{: .r-fit-text}
+
+### Wie gestaltete sich jüdisches Leben in der Diaspora?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+Einige jüdische sakrale Texte aufzählen und ihr Zusammenspiel mit mündlichen Praktiken erläutern.
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+Beispiele für die Folgen des sprachlichen und kulturellen Kontakts mit dem Aramäischen und Griechischen nennen.
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+"
+,,19.06,2025-06-19-corpus-christi.md,Fronleichnam (vorlesungsfrei),Fronleichnam (vorlesungsfrei),,,. Fronleichnam (vorlesungsfrei): Fronleichnam (vorlesungsfrei),,,,,,,,,2025-06-19-corpus-christi-slides.md,"---
+layout: reveal
+title: ''
+author: 'Nathan Gibson'
+session: 
+tags: [,slides]
+category: slides
+image: 
+parallaxBackgroundImage: 'assets/img/'
+---
+","# Einführung ins Judentum
+{: .r-fit-text}
+
+### 
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+Beispiele für die Folgen des sprachlichen und kulturellen Kontakts mit dem Aramäischen und Griechischen nennen.
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+","---
+layout: reveal
+title: ''
+author: 'Nathan Gibson'
+session: 
+tags: [,slides]
+category: slides
+image: 
+parallaxBackgroundImage: 'assets/img/'
+---
+# Einführung ins Judentum
+{: .r-fit-text}
+
+### 
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+Beispiele für die Folgen des sprachlichen und kulturellen Kontakts mit dem Aramäischen und Griechischen nennen.
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+"
 ,7,26.06,2025-06-26-7.md,Historische Auseinandersetzungen,Exkursion,,,7. Historische Auseinandersetzungen: Exkursion,7,torah-crown.jpg,7-Exkursion,,,,[7],"---
 layout: post
 session: 7
 tags: [7]
 level: overview
----"
+---",2025-06-26-7-slides.md,"---
+layout: reveal
+title: ''
+author: 'Nathan Gibson'
+session: 7
+tags: [7,slides]
+category: slides
+image: torah-crown.jpg
+parallaxBackgroundImage: 'assets/img/torah-crown.jpg'
+---
+","# Einführung ins Judentum
+{: .r-fit-text}
+
+### 
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie haben sich Juden von anderen Monotheisten unterschieden?","---
+layout: reveal
+title: ''
+author: 'Nathan Gibson'
+session: 7
+tags: [7,slides]
+category: slides
+image: torah-crown.jpg
+parallaxBackgroundImage: 'assets/img/torah-crown.jpg'
+---
+# Einführung ins Judentum
+{: .r-fit-text}
+
+### 
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie haben sich Juden von anderen Monotheisten unterschieden?"
 ,8,03.07,2025-07-03-8.md,Historische Auseinandersetzungen,"Juden, Samaritaner & Gottesfürchtige",Wie haben sich Juden von anderen Monotheisten unterschieden?,"Übergangsriten, Reinheit","8. Historische Auseinandersetzungen: Juden, Samaritaner & Gottesfürchtige",8,20090409-MT-gerizem-sameritan-sacrifice-highpriests-003-2.jpg,"8-Juden,-Samaritaner-Gottesfürchtige",,Die Entwicklung der jüdischen Selbstbestimmung skizzieren. ,,[8],"---
 layout: post
 session: 8
 tags: [8]
 level: overview
----"
+---",2025-07-03-8-slides.md,"---
+layout: reveal
+title: 'Wie haben sich Juden von anderen Monotheisten unterschieden?'
+author: 'Nathan Gibson'
+session: 8
+tags: [8,slides]
+category: slides
+image: 20090409-MT-gerizem-sameritan-sacrifice-highpriests-003-2.jpg
+parallaxBackgroundImage: 'assets/img/20090409-MT-gerizem-sameritan-sacrifice-highpriests-003-2.jpg'
+---
+","# Einführung ins Judentum
+{: .r-fit-text}
+
+### Wie haben sich Juden von anderen Monotheisten unterschieden?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+Die Entwicklung der jüdischen Selbstbestimmung skizzieren. ","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie trennten sich die Wege der verschiedenen Sekten?","---
+layout: reveal
+title: 'Wie haben sich Juden von anderen Monotheisten unterschieden?'
+author: 'Nathan Gibson'
+session: 8
+tags: [8,slides]
+category: slides
+image: 20090409-MT-gerizem-sameritan-sacrifice-highpriests-003-2.jpg
+parallaxBackgroundImage: 'assets/img/20090409-MT-gerizem-sameritan-sacrifice-highpriests-003-2.jpg'
+---
+# Einführung ins Judentum
+{: .r-fit-text}
+
+### Wie haben sich Juden von anderen Monotheisten unterschieden?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+Die Entwicklung der jüdischen Selbstbestimmung skizzieren. 
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie trennten sich die Wege der verschiedenen Sekten?"
 ,9,10.07,2025-07-10-9.md,Historische Auseinandersetzungen,Rabbiner & messianische Bewegungen,Wie trennten sich die Wege der verschiedenen Sekten?,,9. Historische Auseinandersetzungen: Rabbiner & messianische Bewegungen,9,bar-kokhba-weight.jpg,9-Rabbiner-messianische-Bewegungen,,"Gründe nennen, warum die Rabbiner nicht als alleinige Repräsentanten des Judentums in den ersten Jahrhunderten u.Z. anzusehen sind.",,[9],"---
 layout: post
 session: 9
 tags: [9]
 level: overview
----"
+---",2025-07-10-9-slides.md,"---
+layout: reveal
+title: 'Wie trennten sich die Wege der verschiedenen Sekten?'
+author: 'Nathan Gibson'
+session: 9
+tags: [9,slides]
+category: slides
+image: bar-kokhba-weight.jpg
+parallaxBackgroundImage: 'assets/img/bar-kokhba-weight.jpg'
+---
+","# Einführung ins Judentum
+{: .r-fit-text}
+
+### Wie trennten sich die Wege der verschiedenen Sekten?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+Die Entwicklung der jüdischen Selbstbestimmung skizzieren. 
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+Gründe nennen, warum die Rabbiner nicht als alleinige Repräsentanten des Judentums in den ersten Jahrhunderten u.Z. anzusehen sind.","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie positionierten sich Rabbiner als die Wahren gegenüber Karäern und Muslimen?","---
+layout: reveal
+title: 'Wie trennten sich die Wege der verschiedenen Sekten?'
+author: 'Nathan Gibson'
+session: 9
+tags: [9,slides]
+category: slides
+image: bar-kokhba-weight.jpg
+parallaxBackgroundImage: 'assets/img/bar-kokhba-weight.jpg'
+---
+# Einführung ins Judentum
+{: .r-fit-text}
+
+### Wie trennten sich die Wege der verschiedenen Sekten?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+Die Entwicklung der jüdischen Selbstbestimmung skizzieren. 
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+Gründe nennen, warum die Rabbiner nicht als alleinige Repräsentanten des Judentums in den ersten Jahrhunderten u.Z. anzusehen sind.
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Wie positionierten sich Rabbiner als die Wahren gegenüber Karäern und Muslimen?"
 ,10,17.07,2025-07-17-10.md,Historische Auseinandersetzungen,"Rabbiner, Karäer und Muslime",Wie positionierten sich Rabbiner als die Wahren gegenüber Karäern und Muslimen?,,"10. Historische Auseinandersetzungen: Rabbiner, Karäer und Muslime",10,torah-islamicate.jpg,"10-Rabbiner,-Karäer-und-Muslime",,"Einige Unterschiede zwischen Rabbinern, Karäern und Muslimen benennen.",,[10],"---
 layout: post
 session: 10
 tags: [10]
 level: overview
----"
+---",2025-07-17-10-slides.md,"---
+layout: reveal
+title: 'Wie positionierten sich Rabbiner als die Wahren gegenüber Karäern und Muslimen?'
+author: 'Nathan Gibson'
+session: 10
+tags: [10,slides]
+category: slides
+image: torah-islamicate.jpg
+parallaxBackgroundImage: 'assets/img/torah-islamicate.jpg'
+---
+","# Einführung ins Judentum
+{: .r-fit-text}
+
+### Wie positionierten sich Rabbiner als die Wahren gegenüber Karäern und Muslimen?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+Gründe nennen, warum die Rabbiner nicht als alleinige Repräsentanten des Judentums in den ersten Jahrhunderten u.Z. anzusehen sind.
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+Einige Unterschiede zwischen Rabbinern, Karäern und Muslimen benennen.","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Was haben Sie in diesem Kurs gelernt?","---
+layout: reveal
+title: 'Wie positionierten sich Rabbiner als die Wahren gegenüber Karäern und Muslimen?'
+author: 'Nathan Gibson'
+session: 10
+tags: [10,slides]
+category: slides
+image: torah-islamicate.jpg
+parallaxBackgroundImage: 'assets/img/torah-islamicate.jpg'
+---
+# Einführung ins Judentum
+{: .r-fit-text}
+
+### Wie positionierten sich Rabbiner als die Wahren gegenüber Karäern und Muslimen?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+Gründe nennen, warum die Rabbiner nicht als alleinige Repräsentanten des Judentums in den ersten Jahrhunderten u.Z. anzusehen sind.
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+Einige Unterschiede zwischen Rabbinern, Karäern und Muslimen benennen.
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+Was haben Sie in diesem Kurs gelernt?"
 ,11,24.07,2025-07-24-11.md,,Rückblick,Was haben Sie in diesem Kurs gelernt?,,11. : Rückblick,11,scroll.jpg,11-Rückblick,,Das im Kurs neu erworbene Wissen zusammenfassen und festigen.,,[11],"---
 layout: post
 session: 11
 tags: [11]
 level: overview
----"
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+---",2025-07-24-11-slides.md,"---
+layout: reveal
+title: 'Was haben Sie in diesem Kurs gelernt?'
+author: 'Nathan Gibson'
+session: 11
+tags: [11,slides]
+category: slides
+image: scroll.jpg
+parallaxBackgroundImage: 'assets/img/scroll.jpg'
+---
+","# Einführung ins Judentum
+{: .r-fit-text}
+
+### Was haben Sie in diesem Kurs gelernt?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+Einige Unterschiede zwischen Rabbinern, Karäern und Muslimen benennen.
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+Das im Kurs neu erworbene Wissen zusammenfassen und festigen.","
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+","---
+layout: reveal
+title: 'Was haben Sie in diesem Kurs gelernt?'
+author: 'Nathan Gibson'
+session: 11
+tags: [11,slides]
+category: slides
+image: scroll.jpg
+parallaxBackgroundImage: 'assets/img/scroll.jpg'
+---
+# Einführung ins Judentum
+{: .r-fit-text}
+
+### Was haben Sie in diesem Kurs gelernt?
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+Einige Unterschiede zwischen Rabbinern, Karäern und Muslimen benennen.
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+Das im Kurs neu erworbene Wissen zusammenfassen und festigen.
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
+"
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,

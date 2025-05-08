@@ -736,6 +736,26 @@ references:
   title: Judentum
   type: book
 
+- id: cohn-sherbokJudischeGlaubensuberzeugungenUnd2000
+  author:
+    - family: Cohn-Sherbok
+      given: Dan
+  citation-key: cohn-sherbokJudischeGlaubensuberzeugungenUnd2000
+  container-title: Judentum
+  edition: Deutsche Erstausgabe
+  event-place: Freiburg im Breisgau
+  ISBN: 978-3-451-04825-8
+  issued:
+    - year: 2000
+  page: 108-138
+  publisher: Herder
+  publisher-place: Freiburg im Breisgau
+  source: COinS
+  title: Jüdische Glaubensüberzeugungen und Praktiken
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/23903600655/CourseNode/93668888136198/03+-+Cohn-Sherbok+-+2000+-+Judentum.pdf
+
 - id: cohn-sherbokMessianicJudaismCritical2000
   abstract: >-
     Who are the Messianic Jews? What do they believe and practice? What is the

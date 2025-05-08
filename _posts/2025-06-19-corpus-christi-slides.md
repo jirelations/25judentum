@@ -1,0 +1,46 @@
+---
+layout: reveal
+title: ''
+author: 'Nathan Gibson'
+session: 
+tags: [,slides]
+category: slides
+image: 
+parallaxBackgroundImage: 'assets/img/'
+---
+# Einführung ins Judentum
+{: .r-fit-text}
+
+### 
+
+Sommersemester 2025
+Prof. Dr. Nathan Gibson
+
+## 📈 Rückblick: Lernziel
+
+Beispiele für die Folgen des sprachlichen und kulturellen Kontakts mit dem Aramäischen und Griechischen nennen.
+
+## 📈 Rückblick: 
+
+
+
+## Projekt
+
+
+## Einleitung
+
+
+
+## Heutiges Lernziel
+
+
+
+## Lektüre
+
+
+
+## Diskussion
+
+
+## Vorschau
+
