@@ -1968,6 +1968,25 @@ references:
   title-short: Judentum
   type: book
 
+- id: mattbakerusefulchartsDoesTalmudACTUALLY2025
+  accessed:
+    - year: 2025
+      month: 5
+      day: 27
+  citation-key: mattbakerusefulchartsDoesTalmudACTUALLY2025
+  dimensions: '25:17'
+  director:
+    - literal: Matt Baker (UsefulCharts)
+  issued:
+    - year: 2025
+      month: 4
+      day: 4
+  language: en
+  source: YouTube
+  title: Does The Talmud ACTUALLY Say That?
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=nBeDU09o9Hw
+
 - id: mcdowellDiversityRabbinizationJewish2021
   abstract: >-
     This volume is dedicated to the cultural and religious diversity in Jewish
@@ -3083,6 +3102,29 @@ references:
   type: chapter
   URL: >-
     http://booksandjournals.brillonline.com.0082b2jt1093.emedia1.bsb-muenchen.de/content/books/b9789004345331_005
+
+- id: solomon3WieEntwickelte2022
+  author:
+    - family: Solomon
+      given: Norman
+  citation-key: solomon3WieEntwickelte2022
+  container-title: 'Das Judentum: Eine kleine Einführung'
+  event-place: Ditzingen
+  ISBN: 978-3-15-014268-4
+  issued:
+    - year: 2022
+  language: de
+  page: 45-57
+  publisher: Reclam
+  publisher-place: Ditzingen
+  source: COinS
+  title: 3. Wie entwickelte sich das Judentum weiter?
+  translator:
+    - family: Schöller
+      given: Ekkehard
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/23903600655/CourseNode/93668888136198/05+-+Solomon+-+2022+-+3.+Wie+entwickelte+sich+das+Judentum+weiter.pdf
 
 - id: solomonEinleitungUndKapitel2022
   author:
