@@ -187,6 +187,46 @@ references:
   title: The ways that never parted
   type: book
 
+- id: beckingIdentityPersianEgypt2020
+  abstract: >-
+    In this book, Bob Becking provides a comprehensive and up-to-date overview
+    of the origins, lives, and eventual fate of the Yehudites, or Judeans, at
+    Elephantine, framed within the greater history of the rise and fall of the
+    Persian Empire. The Yehudites were among those mercenaries recruited by the
+    Persians to defend the southwestern border of the empire in the fifth
+    century BCE. Becking argues that this group, whom some label as the first
+    “Jews,” lived on the island of Elephantine in relative peace with other
+    ethnic groups under the aegis of the pax persica. Drawing on Aramaic and
+    Demotic texts discovered during excavations on the island and at Syene on
+    the adjacent shore of the Nile, Becking finds evidence of intermarriage,
+    trade cooperation, and even a limited acceptance of one another’s gods
+    between the various ethnic groups at Elephantine. His analysis of the
+    Elephantine Yehudites’ unorthodox form of Yahwism provides valuable insight
+    into the group’s religious beliefs and practices. An important contribution
+    to the study of Yehudite life in the diaspora, this accessibly written and
+    sweeping history enhances our understanding of the varieties of early Jewish
+    life and how these contributed to the construction of Judaism.
+  accessed:
+    - year: 2025
+      month: 6
+      day: 10
+  author:
+    - family: Becking
+      given: Bob
+  citation-key: beckingIdentityPersianEgypt2020
+  event-place: University Park
+  ISBN: 978-1-64602-074-4
+  issued:
+    - year: 2020
+  language: en
+  publisher: Penn State University Press
+  publisher-place: University Park
+  source: Project MUSE
+  title: 'Identity in Persian Egypt: The Fate of the Yehudite Community of Elephantine'
+  title-short: Identity in Persian Egypt
+  type: book
+  URL: https://muse-jhu-edu.proxy.ub.uni-frankfurt.de/book/82883/
+
 - id: boehmSamaritanischeDiasporaIm2018
   abstract: >-
     The triad of Jews, Gentiles and Christians seems clearly arranged in the
@@ -1083,6 +1123,54 @@ references:
   source: BnF Catalogue général (http:// catalogue.bnf.fr)
   title: Rhetoric and religious identity in late antiquity
   type: book
+
+- id: folmerElephantineRevisitedNew2022
+  abstract: >-
+    The Judean community at Elephantine has long fascinated historians of the
+    Persian period. This book, with its stellar assemblage of important
+    scholarly voices, provides substantive new insights and approaches that will
+    advance the study of this well-known but not entirely understood community
+    from fifth-century BCE Egypt. Since Bezalel Porten’s pioneering Archives
+    from Elephantine, published in 1968, the discourse on the subject of the
+    community of Elephantine during the Persian period has changed considerably,
+    due to new data from excavations, the discovery and publication of
+    previously unknown texts, and original scholarly insights and avenues of
+    inquiry. Running the gamut from archaeological to linguistic investigations
+    and encompassing legal, literary, religious, and other aspects of life in
+    this Judean community, this volume stands at a crossroads of research that
+    extends from Hebrew Bible studies to the history of early Jewish
+    communities. It also features fourteen new Aramaic ostraca from Aswan. The
+    volume will appeal to students and scholars of the Hebrew Bible and ancient
+    Judaism, as well as to a wider audience of Egyptologists, Semitists, and
+    specialists in ancient Near Eastern studies. In addition to the editor, the
+    contributors to this volume include Annalisa Azzoni, Bob Becking, Alejandro
+    F. Botta, Lester L. Grabbe, Ingo Kottsieper, Reinhard G. Kratz, André
+    Lemaire, Hélène Nutkowicz, Beatrice von Pilgrim, Cornelius von Pilgrim,
+    Bezalel Porten, Ada Yardeni, and Ran Zadok. Moreover, a video recording of
+    an interview conducted with Porten on his long career in Elephantine studies
+    accompanies the book through a link on the Eisenbrauns website.
+  accessed:
+    - year: 2025
+      month: 6
+      day: 10
+  author:
+    - family: Folmer
+      given: Margaretha
+  citation-key: folmerElephantineRevisitedNew2022
+  event-place: University Park
+  ISBN: 978-1-64602-207-6
+  issued:
+    - year: 2022
+  language: en
+  publisher: Penn State University Press
+  publisher-place: University Park
+  source: Project MUSE
+  title: >-
+    Elephantine Revisited: New Insights into the Judean Community and Its
+    Neighbors
+  title-short: Elephantine Revisited
+  type: book
+  URL: https://muse-jhu-edu.proxy.ub.uni-frankfurt.de/book/109196/
 
 - id: fonrobertCambridgeCompanionTalmud2007
   author:
