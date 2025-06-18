@@ -227,6 +227,24 @@ references:
   type: book
   URL: https://muse-jhu-edu.proxy.ub.uni-frankfurt.de/book/82883/
 
+- id: boehmSamaritaner2010
+  accessed:
+    - year: 2025
+      month: 6
+      day: 18
+  author:
+    - family: Böhm
+      given: Martina
+  citation-key: boehmSamaritaner2010
+  container-title: Das Wissenschaftliche Bibellexikon im Internet
+  issued:
+    - year: 2010
+      month: 6
+  language: de
+  title: Samaritaner
+  type: chapter
+  URL: https://bibelwissenschaft.de/stichwort/25967/
+
 - id: boehmSamaritanischeDiasporaIm2018
   abstract: >-
     The triad of Jews, Gentiles and Christians seems clearly arranged in the
@@ -2023,6 +2041,31 @@ references:
   URL: >-
     http://dx.doi.org.proxy.ub.uni-frankfurt.de/10.1163/1878-9781_ejiw_COM_0012630
 
+- id: lepperJewishCommunityElephantine2015
+  author:
+    - family: Lepper
+      given: Verena M.
+  citation-key: lepperJewishCommunityElephantine2015
+  container-title: Egypt. Faith after the pharaohs
+  editor:
+    - family: Fluck
+      given: Cäcilia
+    - family: Helmecke
+      given: Gisela
+    - family: O'Connell
+      given: Elisabeth R.
+  event-place: London
+  issued:
+    - year: 2015
+  language: en
+  page: 26-27
+  publisher-place: London
+  source: COinS
+  title: The Jewish Community at Elephantine
+  type: chapter
+  URL: >-
+    https://archiv.ub.uni-heidelberg.de/propylaeumdok/5571/1/12_Lepper_Faith_2015.pdf
+
 - id: levineDiversityAncientSynagogue2021
   accessed:
     - year: 2023
@@ -2059,6 +2102,69 @@ references:
     Implications
   type: chapter
   URL: https://books.openbookpublishers.com/10.11647/obp.0219.01.pdf
+
+- id: lissJudischeBibelauslegung2020
+  author:
+    - family: Liss
+      given: Hanna
+  citation-key: lissJudischeBibelauslegung2020
+  event-place: Stuttgart
+  ISBN: 978-3-8385-5135-7
+  issued:
+    date-parts:
+      - - '2020'
+  number-of-pages: 1 Online-Ressource (XXVI, 835 Seiten)
+  original-date:
+    - year: 2020
+  publisher: Mohr Siebeck
+  publisher-place: Stuttgart
+  source: COinS
+  title: Jüdische Bibelauslegung
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Felibrary.utb.de%2Fdoi%2Fbook%2F10.36198%2F9783838551357
+
+- id: lissTanachLehrbuchJudischen2011
+  author:
+    - family: Liss
+      given: Hanna
+  citation-key: lissTanachLehrbuchJudischen2011
+  edition: 3., unveränderte Auflage
+  event-place: Ann Arbor, Michigan
+  ISBN: 978-3-8253-7313-9
+  issued:
+    - year: 2011
+  number-of-pages: 1 Online-Ressource (VIII, 414 Seiten)
+  publisher: Winter
+  publisher-place: Ann Arbor, Michigan
+  source: COinS
+  title: 'Tanach : Lehrbuch der jüdischen Bibel'
+  title-short: Tanach
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D844049
+
+- id: lissTanachLehrbuchJudischen2019
+  author:
+    - family: Liss
+      given: Hanna
+  citation-key: lissTanachLehrbuchJudischen2019
+  edition: 4., völlig neu überarbeitete Auflage
+  event-place: Heidelberg
+  ISBN: 978-3-8253-6850-0
+  issued:
+    date-parts:
+      - - '2019'
+  number-of-pages: X, 492 Seiten
+  original-date:
+    - year: 2019
+  publisher: Universitätsverlag Winter
+  publisher-place: Heidelberg
+  source: COinS
+  title: 'Tanach : Lehrbuch der jüdischen Bibel'
+  title-short: Tanach
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB448979128
 
 - id: maierJudentumStudiumReligionen2013
   author:
@@ -3514,6 +3620,16 @@ references:
   type: book
   URL: >-
     https://content-select-com.proxy.ub.uni-frankfurt.de/de/portal/media/view/519cc3b3-dbfc-498e-b9e5-290b5dbbeaba?forceauth=1
+
+- id: TextsScriptsElephantine
+  accessed:
+    - year: 2025
+      month: 6
+      day: 16
+  citation-key: TextsScriptsElephantine
+  title: 'Texts & Scripts from Elephantine: Objects'
+  type: webpage
+  URL: https://elephantine.smb.museum/search/
 
 - id: vanderkamIntroductionEarlyJudaism2003
   abstract: >-
