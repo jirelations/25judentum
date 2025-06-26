@@ -186,6 +186,8 @@ references:
   source: UBFFM ZB
   title: The ways that never parted
   type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.mohrsiebeck.com%2F10.1628%2F978-3-16-158695-8
 
 - id: beckingIdentityPersianEgypt2020
   abstract: >-
@@ -1944,6 +1946,29 @@ references:
   URL: >-
     https://doi-org.proxy.ub.uni-frankfurt.de/10.1093/oxfordhb/9780199280322.013.0024
 
+- id: kraabelDisappearanceGodFearers1981
+  accessed:
+    - year: 2025
+      month: 6
+      day: 25
+  author:
+    - family: Kraabel
+      given: A. T.
+  citation-key: kraabelDisappearanceGodFearers1981
+  container-title: Numen
+  DOI: 10.2307/3270014
+  ISSN: 0029-5973
+  issue: '2'
+  issued:
+    - year: 1981
+  page: 113-126
+  publisher: Brill
+  source: JSTOR
+  title: The Disappearance of the 'God-Fearers'
+  type: article-journal
+  URL: https://www.jstor.org/stable/3270014
+  volume: '28'
+
 - id: kratzQumranSchriftrollenVom2022
   accessed:
     - year: 2022
@@ -2040,6 +2065,52 @@ references:
   type: chapter
   URL: >-
     http://dx.doi.org.proxy.ub.uni-frankfurt.de/10.1163/1878-9781_ejiw_COM_0012630
+
+- id: lehnardtAntiSamaritanAttitudeReflected2021
+  abstract: >-
+    Samaritans, as a group within the ranges of ancient ‘Judaisms’, are often
+    mentioned in Talmud and Midrash. As comparable social–religious entities,
+    they are regarded ambivalently by the rabbis. First, they were viewed as
+    Jews, but from the end of the Tannaitic times, and especially after the Bar
+    Kokhba revolt, they were perceived as non-Jews, not reliable about different
+    fields of Halakhic concern. Rabbinic writings reflect on this change in
+    attitude and describe a long ongoing conflict and a growing anti-Samaritan
+    attitude. This article analyzes several dialogues between rabbis and
+    Samaritans transmitted in the Midrash on the book of Genesis, Bereshit
+    Rabbah. In four larger sections, the famous Rabbi Me’ir is depicted as the
+    counterpart of certain Samaritans. The analyses of these discussions try to
+    show how rabbinic texts avoid any direct exegetical dispute over particular
+    verses of the Torah, but point to other hermeneutical levels of discourse
+    and the rejection of Samaritan claims. These texts thus reflect a remarkable
+    understanding of some Samaritan convictions, and they demonstrate how rabbis
+    denounced Samaritanism and refuted their counterparts. The Rabbi Me’ir
+    dialogues thus are an impressive literary witness to the final stages of the
+    parting of ways of these diverging religious streams.
+  accessed:
+    - year: 2025
+      month: 6
+      day: 25
+  author:
+    - family: Lehnardt
+      given: Andreas
+  citation-key: lehnardtAntiSamaritanAttitudeReflected2021
+  container-title: Religions
+  DOI: 10.3390/rel12080584
+  ISSN: 2077-1444
+  issue: '8'
+  issued:
+    - year: 2021
+      month: 8
+  language: en
+  license: http://creativecommons.org/licenses/by/3.0/
+  number: '8'
+  page: '584'
+  publisher: Multidisciplinary Digital Publishing Institute
+  source: www-mdpi-com.proxy.ub.uni-frankfurt.de
+  title: The Anti-Samaritan Attitude as Reflected in Rabbinic Midrashim
+  type: article-journal
+  URL: https://www.mdpi.com/2077-1444/12/8/584
+  volume: '12'
 
 - id: lepperJewishCommunityElephantine2015
   author:
@@ -2312,6 +2383,41 @@ references:
   type: chapter
   URL: https://books.openbookpublishers.com/10.11647/obp.0219.13.pdf
 
+- id: mitchellMessiahBarEphraim2006
+  abstract: >-
+    This article examines the references to Messiah bar Ephraim in the Targums,
+    and concludes that the Targumic Tosefta to Zech. 12.1 0, where Messiah bar
+    Ephraim is vanquished, and Targum Pseudo-Jonathan to Exod. 40.9-11, where he
+    is the vanquisher, both predate the Christian period. The apparent conflict
+    between his suffering and conquering roles may indicate a belief that bar
+    Ephraim's death effects the final redemption. References in the Targum to
+    the Song of Songs are also considered.
+  accessed:
+    - year: 2025
+      month: 6
+      day: 26
+  author:
+    - family: Mitchell
+      given: David C.
+  citation-key: mitchellMessiahBarEphraim2006
+  container-title: Aramaic Studies
+  DOI: 10.1177/1477835106073793
+  ISSN: 1745-5227, 1477-8351
+  issue: '2'
+  issued:
+    - year: 2006
+      month: 5
+      day: 30
+  language: en
+  page: 221-241
+  publisher: Brill
+  source: brill-com.proxy.ub.uni-frankfurt.de
+  title: Messiah bar Ephraim in the Targums
+  type: article-journal
+  URL: >-
+    https://brill-com.proxy.ub.uni-frankfurt.de/view/journals/arst/4/2/article-p221_7.xml
+  volume: '4'
+
 - id: munz-manorLiturgicalPoetryLate2010
   abstract: >-
     The article presents a contemporary view of the study of piyyut,
@@ -2350,6 +2456,37 @@ references:
   URL: >-
     https://brill-com.proxy.ub.uni-frankfurt.de/view/journals/jaj/1/3/article-p336_5.xml
   volume: '1'
+
+- id: murphy-oconnorLotsGodFearersTheosebeis1992
+  abstract: >-
+    In this inscription theoseb�s is used in two distinct senses. The first
+    confirms the existence of "God-fearers" in the Lucan sense. The second
+    highlights the ambiguity of the term and the need for contextual
+    clarification in each and every case. Dans cette inscription, theoseb�s est
+    usit� en deux sens distincts. Le premier confirme l'existence des �
+    craignants Dieu � au sens lucanien. Le second illustre l'ambigu�t� du terme
+    et la n�cessit� de l'expliquer chaque fois par son contexte.
+  accessed:
+    - year: 2025
+      month: 6
+      day: 25
+  author:
+    - family: Murphy-O'Connor
+      given: Jerome
+  citation-key: murphy-oconnorLotsGodFearersTheosebeis1992
+  container-title: Revue Biblique (1946-)
+  ISSN: 0035-0907
+  issue: '2'
+  issued:
+    - year: 1992
+  page: 418-424
+  publisher: Peeters Publishers
+  source: JSTOR
+  title: Lots of God-Fearers? "Theosebeis" in the Aphrodisias Inscription
+  title-short: Lots of God-Fearers?
+  type: article-journal
+  URL: https://www.jstor.org/stable/44089109
+  volume: '99'
 
 - id: nachamaBasiswissenJudentum2015
   author:
@@ -2513,6 +2650,44 @@ references:
   type: chapter
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.mohrsiebeck.com%2Fbuch%2Fjuden-heiden-christen-9783161550294
+
+- id: novensonWhyDoesAkiba2009
+  abstract: >-
+    Peter Sch�fer has argued that the name of R. Akiba is secondary to y. Ta?an.
+    4:8/27, in which R. Akiba is said to have acclaimed Bar Kokhba as messiah.
+    Some interpreters have countered, however, that rabbinic haggadah would not
+    attribute such an embarrassing position to R. Akiba if he had not held it.
+    In response to both these arguments, I propose that the R. Akiba-Bar Kokhba
+    tradition fits a pattern of talmudic stories about the Second Revolt in
+    which the rabbis are anachronistically cast in a position of influence. This
+    tradition is an example of a late antique literary topos attested in Jewish,
+    Christian, and pagan sources in which a founder of a minority movement is
+    remembered as having conversed with a contemporary world leader. In short,
+    both Sch�fer and his critics are right: R. Akiba was not originally part of
+    the tradition preserved in y. Ta?an. 4:8/27, but there is a compelling
+    tradition-historical rationale for inserting him there.
+  accessed:
+    - year: 2025
+      month: 6
+      day: 26
+  author:
+    - family: Novenson
+      given: Matthew V.
+  citation-key: novensonWhyDoesAkiba2009
+  container-title: >-
+    Journal for the Study of Judaism in the Persian, Hellenistic, and Roman
+    Period
+  ISSN: 0047-2212
+  issue: 4/5
+  issued:
+    - year: 2009
+  page: 551-572
+  publisher: Brill
+  source: JSTOR
+  title: Why Does R. Akiba Acclaim Bar Kokhba as Messiah?
+  type: article-journal
+  URL: https://www-jstor-org.proxy.ub.uni-frankfurt.de/stable/24669917
+  volume: '40'
 
 - id: PageTalmud
   accessed:
@@ -2692,6 +2867,30 @@ references:
   source: Zotero
   title: 'Studies in Post-Biblical Judaism: History and Literature of Rabbinic Judaism'
   type: article-journal
+
+- id: reinhartzRabbinicPerceptionsSimeon1989
+  accessed:
+    - year: 2025
+      month: 6
+      day: 26
+  author:
+    - family: Reinhartz
+      given: Adele
+  citation-key: reinhartzRabbinicPerceptionsSimeon1989
+  container-title: >-
+    Journal for the Study of Judaism in the Persian, Hellenistic, and Roman
+    Period
+  ISSN: 0047-2212
+  issue: '2'
+  issued:
+    - year: 1989
+  page: 171-194
+  publisher: Brill
+  source: JSTOR
+  title: Rabbinic Perceptions of Simeon Bar Kosiba
+  type: article-journal
+  URL: https://www-jstor-org.proxy.ub.uni-frankfurt.de/stable/24658305
+  volume: '20'
 
 - id: rosen-zviOralityNarrativeRhetoric2008
   abstract: >-
@@ -2962,6 +3161,8 @@ references:
   title: 'Der Bar-Kokhba-Aufstand : Studien zum zweiten jüdischen Krieg gegen Rom'
   title-short: Der Bar-Kokhba-Aufstand
   type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.mohrsiebeck.com%2F10.1628%2F978-3-16-158711-5
 
 - id: schaferJesusTalmud2007
   abstract: >-
@@ -3104,6 +3305,59 @@ references:
     Beziehungen
   title-short: Judaistik und neutestamentliche Wissenschaft
   type: book
+
+- id: schattner-rieserVisionGabrielsHazon2018
+  accessed:
+    - year: 2025
+      month: 6
+      day: 26
+  author:
+    - family: Schattner-Rieser
+      given: Ursula
+  citation-key: schattner-rieserVisionGabrielsHazon2018
+  container-title: Early Christianity
+  container-title-short: EC
+  DOI: 10.1628/186870311798825295
+  ISSN: 1868-8020
+  issue: '4'
+  issued:
+    - year: 2018
+      month: 7
+      day: 9
+  language: en-US
+  page: 1-20
+  publisher: Mohr Siebeck GmbH &amp; Co. KG
+  source: www-mohrsiebeck-com.proxy.ub.uni-frankfurt.de
+  title: Die Vision Gabriels (Hazon Gabriel-HazGab). Ein Steintext vom Toten Meer?
+  type: article-journal
+  URL: >-
+    https://www-mohrsiebeck-com.proxy.ub.uni-frankfurt.de/artikel/die-vision-gabriels-hazon-gabriel-hazgab-ein-steintext-vom-toten-meer-101628186870311798825295/
+  volume: '2'
+
+- id: schiffmanSamaritansTannaiticHalakhah1985
+  accessed:
+    - year: 2025
+      month: 6
+      day: 25
+  author:
+    - family: Schiffman
+      given: L. H.
+  citation-key: schiffmanSamaritansTannaiticHalakhah1985
+  container-title: The Jewish Quarterly Review
+  DOI: 10.2307/1454401
+  ISSN: 0021-6682
+  issue: '4'
+  issued:
+    - year: 1985
+  page: 323-350
+  publisher: >-
+    [University of Pennsylvania Press, Center for Advanced Judaic Studies,
+    University of Pennsylvania]
+  source: JSTOR
+  title: The Samaritans in Tannaitic Halakhah
+  type: article-journal
+  URL: https://www.jstor.org/stable/1454401
+  volume: '75'
 
 - id: schiffmanTextsTraditionsSource1998
   abstract: >-
@@ -3440,6 +3694,27 @@ references:
   title: Einleitung in Talmud und Midrasch
   type: book
 
+- id: stembergerJudentumFruehrabbinischerZeit2015
+  author:
+    - family: Stemberger
+      given: Günter
+  citation-key: stembergerJudentumFruehrabbinischerZeit2015
+  container-title: Historische Zeitschrift
+  DOI: 10.1515/hzhz-2015-0001
+  ISSN: 0018-2613
+  issue: '1'
+  issued:
+    - year: 2015
+  language: German
+  number-of-pages: '32'
+  page: 1-32
+  source: COinS
+  title: Das Judentum in frührabbinischer Zeit.
+  type: article-journal
+  URL: >-
+    https://content.ebscohost.com/cds/retrieve?content=AQICAHjPtM4BHU3ZchRwgzYmadcigk49r9CVlbU7V5F6lgH7WwGD1x_KOed5_ZIC6z2gZh62AAAA4zCB4AYJKoZIhvcNAQcGoIHSMIHPAgEAMIHJBgkqhkiG9w0BBwEwHgYJYIZIAWUDBAEuMBEEDLI_bEs2kb97sQxCKQIBEICBm6CryhUBszbTBi1UNW_hphyIWArTwhIIbSkdaIi36JL1VJkGtRlxFvXIccot2RHCen0s7xwwgTXILN0cQuNapiLWi0BVIAsLGQPUrkaLTpBENIkg9Hf9jq6huSnPJ6u1Pg1MIX78IP7HvBzWzhYUxZKE5rlLiGQIdMIx84denxCK-On7LqpV3K3wd0dT9mfi4UXogXNtcw_GL7tj
+  volume: '300'
+
 - id: stembergerTalmudEinfuehrungTexte1982
   author:
     - family: Stemberger
@@ -3731,6 +4006,28 @@ references:
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.mohrsiebeck.com%2Fbuch%2Fjuden-heiden-christen-9783161550294
 
+- id: wanderGottesfurchtigeUndSympathisanten1998
+  author:
+    - family: Wander
+      given: Bernd (Verfasser)
+  citation-key: wanderGottesfurchtigeUndSympathisanten1998
+  edition: 1. Aufl.
+  event-place: Tübingen
+  ISBN: 978-3-16-157465-8
+  issued:
+    - year: 1998
+  number-of-pages: 1 Online-Ressource (XIII, 276 Seiten)
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: COinS
+  title: >-
+    Gottesfürchtige und Sympathisanten : Studien zum heidnischen Umfeld von
+    Diasporasynagogen
+  title-short: Gottesfürchtige und Sympathisanten
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.mohrsiebeck.com%2F10.1628%2F978-3-16-157465-8
+
 - id: wasserstromREL152Introduction
   author:
     - family: Wasserstrom
@@ -3741,6 +4038,28 @@ references:
   source: Zotero
   title: 'REL 152: Introduction to Judaism'
   type: article-journal
+
+- id: weissThereWasMan2014
+  accessed:
+    - year: 2025
+      month: 6
+      day: 26
+  author:
+    - family: Weiss
+      given: Haim
+  citation-key: weissThereWasMan2014
+  container-title: Jewish Studies Quarterly
+  ISSN: 0944-5706
+  issue: '2'
+  issued:
+    - year: 2014
+  page: 99-115
+  publisher: Mohr Siebeck GmbH & Co. KG
+  source: JSTOR
+  title: There Was a Man in Israel – Bar-Kosibah Was His Name!
+  type: article-journal
+  URL: https://www-jstor-org.proxy.ub.uni-frankfurt.de/stable/24751797?seq=6
+  volume: '21'
 
 - id: YaleUniversityArt
   abstract: "The archaeological site of Dura-Europos, in\_present-day\_Syria, is a crossroads of ancient cultures. It is perhaps best known for the important\_remains\_unearthed during the excavations in the 1920s and 1930s sponsored by Yale University and the French Academy of Inscriptions and Letters. These\_finds\_included a shrine to the god Mithras, a synagogue whose assembly room walls were covered with painted biblical scenes, and one of the earliest Christian house churches. The\_art\_and artifacts, many\_..."
