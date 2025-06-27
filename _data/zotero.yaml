@@ -1572,6 +1572,34 @@ references:
   URL: >-
     https://academic-oup-com.proxy.ub.uni-frankfurt.de/edited-volume/38625/chapter/335224566
 
+- id: goodmanModelingPartingWays2003
+  author:
+    - family: Goodman
+      given: Martin
+  call-number: 13.219.31
+  citation-key: goodmanModelingPartingWays2003
+  collection-number: '95'
+  collection-title: Texts and studies in ancient Judaism
+  container-title: The ways that never parted
+  editor:
+    - family: Becker
+      given: Adam H.
+    - family: Reed
+      given: Annette Yoshiko
+  event-place: Tübingen
+  ISBN: 978-3-16-147966-3
+  issued:
+    - year: 2003
+  language: en
+  page: 119-129
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: UBFFM ZB
+  title: Modeling the "Parting of the Ways"
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/23903600655/CourseNode/93668888136198/08+-+Goodman+-+2003+-+Modeling+the+Parting+of+the+Ways.pdf
+
 - id: goodmanOxfordHandbookJewish2002
   author:
     - family: Goodman
@@ -3707,12 +3735,12 @@ references:
     - year: 2015
   language: German
   number-of-pages: '32'
-  page: 1-32
+  page: 1-21
   source: COinS
-  title: Das Judentum in frührabbinischer Zeit.
+  title: Das Judentum in frührabbinischer Zeit [Unterkapitel I-V]
   type: article-journal
   URL: >-
-    https://content.ebscohost.com/cds/retrieve?content=AQICAHjPtM4BHU3ZchRwgzYmadcigk49r9CVlbU7V5F6lgH7WwGD1x_KOed5_ZIC6z2gZh62AAAA4zCB4AYJKoZIhvcNAQcGoIHSMIHPAgEAMIHJBgkqhkiG9w0BBwEwHgYJYIZIAWUDBAEuMBEEDLI_bEs2kb97sQxCKQIBEICBm6CryhUBszbTBi1UNW_hphyIWArTwhIIbSkdaIi36JL1VJkGtRlxFvXIccot2RHCen0s7xwwgTXILN0cQuNapiLWi0BVIAsLGQPUrkaLTpBENIkg9Hf9jq6huSnPJ6u1Pg1MIX78IP7HvBzWzhYUxZKE5rlLiGQIdMIx84denxCK-On7LqpV3K3wd0dT9mfi4UXogXNtcw_GL7tj
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/23903600655/CourseNode/93668888136198/08+-+Stemberger+-+2015+-+Das+Judentum+in+fr%C3%BChrabbinischer+Zeit.pdf
   volume: '300'
 
 - id: stembergerTalmudEinfuehrungTexte1982
