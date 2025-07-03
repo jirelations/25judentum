@@ -3048,6 +3048,26 @@ references:
   URL: >-
     http://dx.doi.org.proxy.ub.uni-frankfurt.de/10.1163/1878-9781_ejiw_COM_0008280
 
+- id: saldariniPhariseesScribesSadducees1988
+  author:
+    - family: Saldarini
+      given: Anthony J.
+  citation-key: saldariniPhariseesScribesSadducees1988
+  event-place: Wilmington, Del.
+  ISBN: 978-0-89453-744-8
+  issued:
+    - year: 1988
+  number-of-pages: X, 325 S.
+  publisher: Glazier
+  publisher-place: Wilmington, Del.
+  source: COinS
+  title: >-
+    Pharisees, scribes and Sadducees in Palestinian society : a sociological
+    approach
+  title-short: Pharisees, scribes and Sadducees in Palestinian society
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB012523151
+
 - id: salvesenConvergenceWaysJudaizing2003
   author:
     - family: Salvesen
@@ -3601,6 +3621,28 @@ references:
   URL: >-
     http://booksandjournals.brillonline.com.0082b2jt1093.emedia1.bsb-muenchen.de/content/books/b9789004345331_005
 
+- id: sieversPharisees2021
+  author:
+    - family: Sievers
+      given: Joseph (Herausgeber)
+    - family: Levine
+      given: Amy-Jill (Herausgeber)
+  citation-key: sieversPharisees2021
+  event-place: Grand Rapids, Michigan
+  ISBN: 978-0-8028-7929-5
+  issued:
+    date-parts:
+      - - '2021'
+  number-of-pages: xxiii, 482 Seiten
+  original-date:
+    - year: 2021
+  publisher: William B. Eerdmans Publishing Company
+  publisher-place: Grand Rapids, Michigan
+  source: COinS
+  title: The Pharisees
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB487779940
+
 - id: solomon3WieEntwickelte2022
   author:
     - family: Solomon
@@ -3742,6 +3784,23 @@ references:
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/23903600655/CourseNode/93668888136198/08+-+Stemberger+-+2015+-+Das+Judentum+in+fr%C3%BChrabbinischer+Zeit.pdf
   volume: '300'
+
+- id: stembergerPharisaerSadduzaerEssener1991
+  author:
+    - family: Stemberger
+      given: Günter
+  citation-key: stembergerPharisaerSadduzaerEssener1991
+  event-place: Stuttgart
+  ISBN: 978-3-460-04441-8
+  issued:
+    - year: 1991
+  number-of-pages: 144 S.
+  publisher: Verl. Kath. Bibelwerk
+  publisher-place: Stuttgart
+  source: COinS
+  title: Pharisäer, Sadduzäer, Essener
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB014311437
 
 - id: stembergerTalmudEinfuehrungTexte1982
   author:
