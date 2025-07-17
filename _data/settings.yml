@@ -16,6 +16,7 @@ menu:
   - { name: "Chat", url: "chat" }
 #  - { name: "Podcast", url: "podcast" }
   - { name: "Glossar", url: "glossary" }
+  - { name: "Überblick", url: "review" }
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
