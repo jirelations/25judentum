@@ -1447,6 +1447,20 @@ references:
   title: Jewish and Christian communal identities in the Roman world
   type: book
 
+- id: gibsonRabbinerKaraeerUnd
+  citation-key: gibsonRabbinerKaraeerUnd
+  collection-title: >-
+    Einführung ins Judentum. Rabbinisches Judentum und seine Rivalen im Nahen
+    Osten
+  director:
+    - family: Gibson
+      given: Nathan
+  language: de
+  number: '3'
+  title: Rabbiner, Karäer und Muslime
+  type: broadcast
+  URL: https://25judentum.pages.gwdg.de/podcasts/3
+
 - id: gillmayr-bucherPrayersConstructionIsraelite2019
   abstract: >-
     This collection of essays from an international group of scholars explores
